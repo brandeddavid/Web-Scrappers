@@ -1,0 +1,2340 @@
+{
+	"results": [
+		{
+			"utc_offset": -21600000,
+			"country": "US",
+			"visibility": "public",
+			"city": "Oak Brook",
+			"timezone": "US/Central",
+			"created": 1079818909000,
+			"topics": [
+				{
+					"urlkey": "blackbiz",
+					"name": "Black Professionals",
+					"id": 2494
+				},
+				{
+					"urlkey": "networkmarket",
+					"name": "Network Marketing",
+					"id": 2532
+				},
+				{
+					"urlkey": "self-improvement",
+					"name": "Self-Improvement",
+					"id": 3336
+				},
+				{
+					"urlkey": "women-entrepreneurs",
+					"name": "Women Entrepreneurs",
+					"id": 15497
+				},
+				{
+					"urlkey": "chicago-business-owners-entrepreneurs",
+					"name": "Chicago Business Owners & Entrepreneurs",
+					"id": 16831
+				},
+				{
+					"urlkey": "social-media-marketing",
+					"name": "Social Media Marketing",
+					"id": 17742
+				},
+				{
+					"urlkey": "womens-empowerment",
+					"name": "Women's Empowerment",
+					"id": 17933
+				},
+				{
+					"urlkey": "entrepreneurship",
+					"name": "Entrepreneurship",
+					"id": 19882
+				},
+				{
+					"urlkey": "young-entrepreneur",
+					"name": "Young Entrepreneur",
+					"id": 20281
+				},
+				{
+					"urlkey": "startup-businesses",
+					"name": "Startup Businesses",
+					"id": 21681
+				},
+				{
+					"urlkey": "women-small-business-owners",
+					"name": "Women Small Business Owners",
+					"id": 23633
+				},
+				{
+					"urlkey": "trading",
+					"name": "Trading",
+					"id": 26906
+				},
+				{
+					"urlkey": "executive-coaching",
+					"name": "Executive Coaching",
+					"id": 135717
+				},
+				{
+					"urlkey": "bitcoin",
+					"name": "Bitcoin",
+					"id": 139517
+				},
+				{
+					"urlkey": "cryptocurrency",
+					"name": "Cryptocurrency",
+					"id": 191791
+				}
+			],
+			"link": "https://www.meetup.com/Chicago-Entrepreneur-and-Futures-Bitcoin-Traders-Group/",
+			"rating": 4.65,
+			"description": "<p>Hi Meetup Group Members,</p>\n<p>Tune in your PC or Portable device into My CME Group Trading Booth Daily (starting at 8AM Central Time) overlooking the Emini and Financial Pits on the CME Trading Floor in Chicago via Go-To-Webinar complete with Live Voice, Charts and Chat Text. <br> <br> Login via Go-to-Webinar here: <a href=\"http://pitiq.tv/h8bikY\" class=\"linkified\">http://pitiq.tv</a><br> <br> all the best <br> <br> Saul <br> <br> Saul Shaoul <br> CME Group Member <br> Floor Traders Club (Chicago) <br> 141 W Jackson Suite #1404 <br> Chicago IL 60604 <br> Tel: (312) 685 2582 <br> Skype: marketvu <br> Email: services@floortradersclub.com</p>",
+			"lon": -87.94000244140625,
+			"group_photo": {
+				"highres_link": "https://secure.meetupstatic.com/photos/event/2/3/3/4/highres_330729012.jpeg",
+				"photo_id": 330729012,
+				"base_url": "https://secure.meetupstatic.com",
+				"type": "event",
+				"photo_link": "https://secure.meetupstatic.com/photos/event/2/3/3/4/600_330729012.jpeg",
+				"thumb_link": "https://secure.meetupstatic.com/photos/event/2/3/3/4/thumb_330729012.jpeg"
+			},
+			"join_mode": "open",
+			"organizer": {
+				"member_id": 116595272,
+				"name": "Saul Shaoul",
+				"photo": {
+					"highres_link": "https://secure.meetupstatic.com/photos/member/1/5/f/6/highres_154025622.jpeg",
+					"photo_id": 154025622,
+					"base_url": "https://secure.meetupstatic.com",
+					"type": "member",
+					"photo_link": "https://secure.meetupstatic.com/photos/member/1/5/f/6/member_154025622.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/member/1/5/f/6/thumb_154025622.jpeg"
+				}
+			},
+			"members": 365,
+			"name": "The Chicago-land Entrepreneurs, Futures and Bitcoin Traders",
+			"id": 109675,
+			"state": "IL",
+			"urlname": "Chicago-Entrepreneur-and-Futures-Bitcoin-Traders-Group",
+			"category": {
+				"name": "career/business",
+				"id": 2,
+				"shortname": "career-business"
+			},
+			"lat": 41.79999923706055,
+			"who": "Chicago Entrepreneurs - Traders"
+		},
+		{
+			"utc_offset": -28800000,
+			"country": "US",
+			"visibility": "public",
+			"city": "San Francisco",
+			"timezone": "US/Pacific",
+			"created": 1166573247000,
+			"topics": [
+				{
+					"urlkey": "digcam",
+					"name": "Digital Photography",
+					"id": 206
+				},
+				{
+					"urlkey": "smallbiz",
+					"name": "Small Business",
+					"id": 389
+				},
+				{
+					"urlkey": "singles",
+					"name": "Singles",
+					"id": 498
+				},
+				{
+					"urlkey": "newintown",
+					"name": "New In Town",
+					"id": 1273
+				},
+				{
+					"urlkey": "socialnetwork",
+					"name": "Social Networking",
+					"id": 4422
+				},
+				{
+					"urlkey": "newtech",
+					"name": "New Technology",
+					"id": 9696
+				},
+				{
+					"urlkey": "online-marketing",
+					"name": "Online Marketing",
+					"id": 15585
+				},
+				{
+					"urlkey": "womens-empowerment",
+					"name": "Women's Empowerment",
+					"id": 17933
+				},
+				{
+					"urlkey": "user-experience",
+					"name": "User Experience",
+					"id": 19243
+				},
+				{
+					"urlkey": "seo-search-engine-optimization",
+					"name": "SEO (Search Engine Optimization)",
+					"id": 23199
+				},
+				{
+					"urlkey": "augmented-reality",
+					"name": "Augmented Reality",
+					"id": 26061
+				},
+				{
+					"urlkey": "female-entrepreneurs",
+					"name": "Female Entrepreneurs",
+					"id": 41905
+				},
+				{
+					"urlkey": "makers",
+					"name": "Makers",
+					"id": 43887
+				},
+				{
+					"urlkey": "digital-currency",
+					"name": "Digital Currency",
+					"id": 143713
+				},
+				{
+					"urlkey": "cryptocurrency",
+					"name": "Cryptocurrency",
+					"id": 191791
+				}
+			],
+			"link": "https://www.meetup.com/4-Women-Entrepreneurs/",
+			"rating": 4.82,
+			"description": "<p><a class=\"embedded\" href=\"https://youtu.be/VSQ3LlrKBSs\">https://youtu.be/VSQ3LlrKBSs</a></p>\n<p>The focus of Women Entrepreneurs is to build a community of opportunities for women entrepreneurs, that are taught by leaders who've already become successful Angel Investors, VC's, Speakers, Coaches, Trainers, and Service professionals.&nbsp; The community is dedicated to building relationships that focus on training, connections,&nbsp;collaboration, celebration, support and business growth.</p>\n<p>If you are an individual that is open and willing to share your wisdom to empower, educate and mentor others, you are welcome to this group.</p>\n<p>We have members looking to connect with business partners; members simply seeking inspiration and advice from mentors; members seeking feedback peer-to-peer. Whether you are a student, investor, potential client, employee or employer, there is something for all business minded individuals to share and/or contribute.</p>\n<p>Let's meet with others in the Bay Area who want to develop their business, be financially independent, aim to be an Entrepreneur or help others become successful. Share your successes and struggles and exchange business cards and brochures. Listen to experts in this field give their presentations and listen to their success stories!</p>\n<p>Also, we are excited to have you become a member and share with our group. <br></p>\n<p>Welcome Aboard!</p>\n<p> <br></p>",
+			"lon": -122.4000015258789,
+			"group_photo": {
+				"highres_link": "https://secure.meetupstatic.com/photos/event/1/2/b/7/highres_452704791.jpeg",
+				"photo_id": 452704791,
+				"base_url": "https://secure.meetupstatic.com",
+				"type": "event",
+				"photo_link": "https://secure.meetupstatic.com/photos/event/1/2/b/7/600_452704791.jpeg",
+				"thumb_link": "https://secure.meetupstatic.com/photos/event/1/2/b/7/thumb_452704791.jpeg"
+			},
+			"join_mode": "open",
+			"organizer": {
+				"member_id": 122810542,
+				"name": "Elly Stuart",
+				"photo": {
+					"highres_link": "https://secure.meetupstatic.com/photos/member/6/e/a/c/highres_167008332.jpeg",
+					"photo_id": 167008332,
+					"base_url": "https://secure.meetupstatic.com",
+					"type": "member",
+					"photo_link": "https://secure.meetupstatic.com/photos/member/6/e/a/c/member_167008332.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/member/6/e/a/c/thumb_167008332.jpeg"
+				}
+			},
+			"members": 468,
+			"name": "4-Women-Entrepreneurs",
+			"id": 386443,
+			"state": "CA",
+			"urlname": "4-Women-Entrepreneurs",
+			"category": {
+				"name": "career/business",
+				"id": 2,
+				"shortname": "career-business"
+			},
+			"lat": 37.79999923706055,
+			"who": "Women Entrepreneurs"
+		},
+		{},
+			"utc_offset": -18000000,
+			"country": "US",
+			"visibility": "public",
+			"city": "New York",
+			"timezone": "US/Eastern",
+			"created": 1172167253000,
+			"topics": [
+				{
+					"urlkey": "investing",
+					"name": "Investing",
+					"id": 1307
+				},
+				{
+					"urlkey": "daytraders",
+					"name": "Day Traders",
+					"id": 2088
+				},
+				{
+					"urlkey": "onlineed",
+					"name": "Online Education",
+					"id": 3586
+				},
+				{
+					"urlkey": "retirement",
+					"name": "Investing for Retirement",
+					"id": 6364
+				},
+				{
+					"urlkey": "forextrading",
+					"name": "Forex Trading",
+					"id": 8431
+				},
+				{
+					"urlkey": "women-entrepreneurs",},
+					"name": "Women Entrepreneurs",
+					"id": 15497
+				},
+				{
+					"urlkey": "futures-trading",
+					"name": "Futures Trading",
+					"id": 16268
+				},
+				{
+					"urlkey": "currency-trading",
+					"name": "Currency Trading",
+					"id": 16269
+				},
+				{
+					"urlkey": "careers-in-forex-trading",
+					"name": "Careers in Forex Trading",
+					"id": 19381
+				},
+				{
+					"urlkey": "swing-traders",
+					"name": "Swing Traders",
+					"id": 28249
+				},
+				{
+					"urlkey": "trader-education",
+					"name": "Trader Education",
+					"id": 47268
+				},
+				{
+					"urlkey": "trader-psychology",
+					"name": "Trader Psychology",
+					"id": 58378
+				},
+				{
+					"urlkey": "bitcoin",
+					"name": "Bitcoin",
+					"id": 139517
+				},
+				{
+					"urlkey": "cryptocurrency",
+					"name": "Cryptocurrency",
+					"id": 191791
+				},
+				{
+					"urlkey": "blockchain",
+					"name": "Blockchain",
+					"id": 1493232
+				}
+			],
+			"link": "https://www.meetup.com/online-futures-forex-trading-education/",
+			"rating": 4.97,
+			"description": "<p><span><span>Meet with other Online Futures and Forex Traders&nbsp;<strong><em>(face to face or online to your PC through our state of the art webinar&nbsp;tools)</em></strong> who engage in futures, bitcoin, crypto-currency, index's, commodities and forex trading.</span></span></p>\n<p><span><span>The goals is to create a supportive environment where all group members can share their ideas, learn something new and ultimately achieve success in&nbsp;their trading plan.</span></span></p>\n<p><span><span>Our group includes experienced local Floor&nbsp;Traders and Online Traders and newbie’s looking to start out on the right trading foot.</span></span></p>\n<p><span><span>We will meet up with trading experts who will give educational presentations.</span></span></p>\n<p><span><span>We also like to meet up and go out for a meal, some drinks and share stories - both good and bad.</span></span></p>\n<p><strong>Important Disclaimer: <br></strong>Upon viewing, reading, utilizing, downloading, participation, attending, registration and/or purchase/attendance in/of any of the Online Traders Network, FBN, Floor Traders Club, Educational Products, Channels, Chat Rooms, Webinars, Videos, Newsletters or Services including put not limited to This Educational Only Channel, I hereby waive all claims against Online Traders Network, FBN, Floor Traders Club, spokespersons, linda lesniak, Saul Shaoul, sponsors, organizers, benefactors including the Financial Broadcasting Network or anyone else associated in any way with any of Online Traders Network, FBN, Floor traders Club Seminars, Educational Products, Workshops, Newsletters, Webinars, Events, Chat Rooms, Channels, DVDs or Trade-Along Online or other for any loss in trading or personal expense I incur related to but not limited to these materials/webinars/chat rooms/channels/seminars/newsletters and events. <br>I am aware and agree that these materials/webinars/chat rooms/channels/seminars/newsletters and events are provided/conducted for educational purposes only and Nothing provided is to be taken as trading advice.</p>\n<p><strong>IMPORTANT: <br></strong>The risk of loss in online trading futures, options, cash currencies and other leveraged transaction products can be substantial. Therefore only “risk capital” should be used. Futures, options, cash currencies and other leveraged transaction products are not suitable investments for everyone. The valuation of futures, options, cash currencies and other leveraged transaction products may fluctuate and as a result clients may lose more than the amount originally invested and may also have to pay more later. Consider your financial condition before deciding to invest or online trade.</p>\n<p><strong>CFTC RULE 4.41 <br></strong>Hypothetical or simulated performance results have certain inherent limitations unlike actual performance record: simulated results do not represent actual trading. Also, since the trades have not actually been executed, the results may have under- or overcompensated of the impact, if any, of certain market factors, such as lack of liquidity. Simulated trading programs in general are also subject to the fact that they are designed with the benefit of hindsight. No presentation is being made that any account will or is likely to achieve profits or losses similar to those predicted or shown.</p>",
+			"lon": -74.01000213623047,
+			"group_photo": {
+				"highres_link": "https://secure.meetupstatic.com/photos/event/6/b/f/2/highres_17967634.jpeg",
+				"photo_id": 17967634,
+				"base_url": "https://secure.meetupstatic.com",
+				"type": "event",
+				"photo_link": "https://secure.meetupstatic.com/photos/event/6/b/f/2/600_17967634.jpeg",
+				"thumb_link": "https://secure.meetupstatic.com/photos/event/6/b/f/2/thumb_17967634.jpeg"
+			},
+			"join_mode": "open",
+			"organizer": {
+				"member_id": 12863109,
+				"name": "Saul Shaoul",
+				"photo": {
+					"highres_link": "https://secure.meetupstatic.com/photos/member/1/9/b/c/highres_10686588.jpeg",
+					"photo_id": 10686588,
+					"base_url": "https://secure.meetupstatic.com",
+					"type": "member",
+					"photo_link": "https://secure.meetupstatic.com/photos/member/1/9/b/c/member_10686588.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/member/1/9/b/c/thumb_10686588.jpeg"
+				}
+			},
+			"members": 580,
+			"name": "Futures, Forex and Bitcoin Trading Education Network",
+			"id": 435198,
+			"state": "NY",
+			"urlname": "online-futures-forex-trading-education",
+			"category": {
+				"name": "career/business",
+				"id": 2,
+				"shortname": "career-business"
+			},
+			"lat": 40.709999084472656,
+			"who": "Traders"
+		},
+		{
+			"utc_offset": -28800000,
+			"country": "US",
+			"visibility": "public_limited",
+			"city": "Pasadena",
+			"timezone": "US/Pacific",
+			"created": 1183506621000,
+			"topics": [
+				{
+					"urlkey": "investing",
+					"name": "Investing",
+					"id": 1307
+				},
+				{
+					"urlkey": "daytraders",
+					"name": "Day Traders",
+					"id": 2088
+				},
+				{
+					"urlkey": "stock-trading",
+					"name": "Stock Trading",
+					"id": 17234
+				},
+				{
+					"urlkey": "financial-education",
+					"name": "Financial Education",
+					"id": 18341
+				},
+				{
+					"urlkey": "stock-market",
+					"name": "Stock Market",
+					"id": 19267
+				},
+				{
+					"urlkey": "stocks-and-options",
+					"name": "Stocks and Options",
+					"id": 19809
+				},
+				{
+					"urlkey": "stock-investing",
+					"name": "Stock Investing",
+					"id": 22016
+				},
+				{
+					"urlkey": "options-trading",
+					"name": "Options Trading",
+					"id": 24425
+				},
+				{
+					"urlkey": "stock-market-trading",
+					"name": "Stock market trading",
+					"id": 24472
+				},
+				{
+					"urlkey": "trading",
+					"name": "Trading",
+					"id": 26906
+				},
+				{
+					"urlkey": "bitcoin",
+					"name": "Bitcoin",
+					"id": 139517
+				},
+				{
+					"urlkey": "cryptocurrency",
+					"name": "Cryptocurrency",
+					"id": 191791
+				},
+				{
+					"urlkey": "ethereum",
+					"name": "Ethereum",
+					"id": 1471992
+				}
+			],
+			"link": "https://www.meetup.com/SouthernCATraders/",
+			"rating": 4.8,
+			"description": "<p>Free option trading updates from WhiteRockUSA.com:&nbsp;<a>https://forms.aweber.com/form/13/1422350713.htm</a></p>\n<p>Free cryptocurrency trading updates and portfolio from Crypto Alpha&nbsp;<a>www.Option80.com:</a>&nbsp;<a>http://forms.aweber.com/form/65/558119065.htm</a></p>\n<p>Hello, and welcome to the Cryptocurrency and Option Trading Group.&nbsp; We discuss Bitcoin, Altcoins, Butterflies, Condors, Ratios, Verticals, Positive Vega structures via crash protection, and more.&nbsp; Most of our discussions lean toward trend following crypto coins, and positive theta option trading.&nbsp; All experience levels are welcome.&nbsp; The goal of this meetup is for all attendees to receive insightful information.&nbsp;</p>\n<p>The organizers run the WhiteRock&nbsp;Iron Condor and Iron Butterfly Newsletter which maintains a positive vega stance for crash protection.&nbsp; WhiteRock has developed a unique way to structure 3 legged Spreads, and 5 legged Iron Condors and Butterflies, to collect premium, yet remain positive vega for crash protection.&nbsp; When market crashes occur, the VIX quickly rises to elevated levels, and negative vega trade structures are adversely affected.&nbsp; WhiteRock's trade structures have the potential to perform well in a market crash.</p>\n<p>WhiteRock offers a complimentary newsletter with spread and performance updates:&nbsp;<a>www.WhiteRockUSA.com</a></p>\n<p>This meetup discusses, and discloses, these positive vega trade structures so attendees can implement them on their own.&nbsp; Others may want to subscribe to our newsletter to follow along, or have a Registered Adviser implement the newsletter on their behalf.&nbsp;</p>\n<p>RISK STATEMENT: The trading of options, stocks, futures, commodities, index futures or any other securities has potential rewards, and it also has potential risks involved. Trading may not be suitable for all individuals. Anyone wishing to invest should seek his or her own independent financial or professional advice. Past performance is not necessarily indicative of future results. There are risks associated with all investments including trading stocks and options. No trading recommendations are being offered.&nbsp; This information is for educational purposes only.&nbsp; We, and any affiliates, are not offering financial advice, and by attending this event, or utilizing this information, you agree to our terms of use and service, and understand all risk is taken at your own discretion.&nbsp;</p>\n<br>",
+			"lon": -118.12999725341797,
+			"group_photo": {
+				"highres_link": "https://secure.meetupstatic.com/photos/event/d/b/4/d/highres_446936141.jpeg",
+				"photo_id": 446936141,
+				"base_url": "https://secure.meetupstatic.com",
+				"type": "event",
+				"photo_link": "https://secure.meetupstatic.com/photos/event/d/b/4/d/600_446936141.jpeg",
+				"thumb_link": "https://secure.meetupstatic.com/photos/event/d/b/4/d/thumb_446936141.jpeg"
+			},
+			"join_mode": "open",
+			"organizer": {
+				"member_id": 198584082,
+				"name": "JM",
+				"photo": {
+					"highres_link": "https://secure.meetupstatic.com/photos/member/3/6/5/8/highres_253933912.jpeg",
+					"photo_id": 253933912,
+					"base_url": "https://secure.meetupstatic.com",
+					"type": "member",
+					"photo_link": "https://secure.meetupstatic.com/photos/member/3/6/5/8/member_253933912.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/member/3/6/5/8/thumb_253933912.jpeg"
+				}
+			},
+			"members": 953,
+			"name": "Southern CA Cryptocurrency and Option Traders",
+			"id": 549789,
+			"state": "CA",
+			"urlname": "SouthernCATraders",
+			"category": {
+				"name": "career/business",
+				"id": 2,
+				"shortname": "career-business"
+			},
+			"lat": 34.13999938964844,
+			"who": "Traders"
+		},
+		{
+			"utc_offset": -18000000,
+			"country": "US",
+			"visibility": "public",
+			"city": "Fort Lauderdale",
+			"timezone": "US/Eastern",
+			"created": 1200453305000,
+			"topics": [
+				{
+					"urlkey": "daytraders",
+					"name": "Day Traders",
+					"id": 2088
+				},
+				{
+					"urlkey": "forextrading",
+					"name": "Forex Trading",
+					"id": 8431
+				},
+				{
+					"urlkey": "futures-trading",
+					"name": "Futures Trading",
+					"id": 16268
+				},
+				{
+					"urlkey": "financial-independence",
+					"name": "Financial Independence",
+					"id": 16601
+				},
+				{
+					"urlkey": "financial-freedom",
+					"name": "Financial Freedom",
+					"id": 16899
+				},
+				{
+					"urlkey": "technical-analysis",
+					"name": "Technical Analysis",
+					"id": 17232
+				},
+				{
+					"urlkey": "stock-trading",
+					"name": "Stock Trading",
+					"id": 17234
+				},
+				{
+					"urlkey": "equities-trading",
+					"name": "Equities Trading",
+					"id": 19268
+				},
+				{
+					"urlkey": "online-trading",
+					"name": "Online Trading",
+					"id": 47264
+				},
+				{
+					"urlkey": "emini-trading",
+					"name": "Emini Trading",
+					"id": 47266
+				},
+				{
+					"urlkey": "trader-education",
+					"name": "Trader Education",
+					"id": 47268
+				},
+				{
+					"urlkey": "financial-academy-or-trading-school",
+					"name": "Financial Academy or Trading School",
+					"id": 47270
+				},
+				{
+					"urlkey": "bitcoin",
+					"name": "Bitcoin",
+					"id": 139517
+				},
+				{
+					"urlkey": "chart-analysis",
+					"name": "Chart Analysis",
+					"id": 146863
+				},
+				{
+					"urlkey": "cryptocurrency",
+					"name": "Cryptocurrency",
+					"id": 191791
+				}
+			],
+			"link": "https://www.meetup.com/online-trading-education-futures-bitcoin-forex-emini/",
+			"rating": 4.77,
+			"description": "<p>Welcome Traders, </p>\n<p>Here is a quick shout out from the Trading Floor</p>\n<p>Congratulations on joining. </p>\n<p>Please find some key online trading tools and links we believe will help you <br>in your online trading.</p>\n<p>Free Online Trading Software Demo with Data <br>NinjaTrader: <a href=\"http://www.PitIntelligence.com\">http://www.PitIntelligence.com</a></p>\n<p>Daily Trading Tool: Pit IQ (Pit Intelligence) tune in daily to Pit IQ <br>on your PC and receive key online trading information, trading strategies and setups from the CME Group Trading Floor (pit) in Chicago via live Audio and Charts. <br>Free Trial Access Link: <a href=\"http://PitIQ.TV/1yiyP7N\">http://PitIQ.TV</a></p>\n<p>For Online Trading Education and Mentoring Services call <br>Me Saul at 1 312 685 2582 or on Skype: marketvu&nbsp; Call and I will consult with <br>you personally. </p>\n<p>All the best in your trading <br>Saul</p>\n<p>Saul Shaoul <br>CME Group Member <br>141 W Jackson Suite #1404 <br>Chicago IL 60604 <br>Tel: (312) 685 2582 <br>Email: <a href=\"mailto:services@PitIntelligence.com\">services@PitIntelligence.com</a> <br>Twitter: <a href=\"http://twitter.com/PitIntelligence\">http://twitter.com/PitIntelligence</a> <br>Facebook Page: <a href=\"http://www.facebook.com/trading.futures\">http://www.facebook.com/trading.futures</a></p>\n<p>Pit IQ (Pit Intelligence) - Online Floor Channel Access <br><a href=\"http://PitIQ.TV/1yiyP7N\">http://PitIQ.TV/1yiyP7N</a></p>",
+			"lon": -80.19999694824219,
+			"group_photo": {
+				"highres_link": "https://secure.meetupstatic.com/photos/event/9/3/4/1/highres_15637697.jpeg",
+				"photo_id": 15637697,
+				"base_url": "https://secure.meetupstatic.com",
+				"type": "event",
+				"photo_link": "https://secure.meetupstatic.com/photos/event/9/3/4/1/600_15637697.jpeg",
+				"thumb_link": "https://secure.meetupstatic.com/photos/event/9/3/4/1/thumb_15637697.jpeg"
+			},
+			"join_mode": "approval",
+			"organizer": {
+				"member_id": 12863109,
+				"name": "Saul Shaoul",
+				"photo": {
+					"highres_link": "https://secure.meetupstatic.com/photos/member/1/9/b/c/highres_10686588.jpeg",
+					"photo_id": 10686588,
+					"base_url": "https://secure.meetupstatic.com",
+					"type": "member",
+					"photo_link": "https://secure.meetupstatic.com/photos/member/1/9/b/c/member_10686588.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/member/1/9/b/c/thumb_10686588.jpeg"
+				}
+			},
+			"members": 193,
+			"name": "Bull & Bear Bitcoin Club (South Florida Chapter)",
+			"id": 954486,
+			"state": "FL",
+			"urlname": "online-trading-education-futures-bitcoin-forex-emini",
+			"category": {
+				"name": "career/business",
+				"id": 2,
+				"shortname": "career-business"
+			},
+			"lat": 26.040000915527344,
+			"who": "Traders"
+		},
+		{
+			"utc_offset": -18000000,
+			"country": "US",
+			"visibility": "public",
+			"city": "New York",
+			"timezone": "US/Eastern",
+			"created": 1233007307000,
+			"topics": [
+				{
+					"urlkey": "smallbiz",
+					"name": "Small Business",
+					"id": 389
+				},
+				{
+					"urlkey": "daytraders",
+					"name": "Day Traders",
+					"id": 2088
+				},
+				{
+					"urlkey": "ibd",
+					"name": "Investor's Business Daily",
+					"id": 2545
+				},
+				{
+					"urlkey": "socialnetwork",
+					"name": "Social Networking",
+					"id": 4422
+				},
+				{
+					"urlkey": "retirement",
+					"name": "Investing for Retirement",
+					"id": 6364
+				},
+				{
+					"urlkey": "forextrading",
+					"name": "Forex Trading",
+					"id": 8431
+				},
+				{
+					"urlkey": "women-entrepreneurs",
+					"name": "Women Entrepreneurs",
+					"id": 15497
+				},
+				{
+					"urlkey": "real-estate-investors",
+					"name": "Real Estate Investors",
+					"id": 16165
+				},
+				{
+					"urlkey": "mba-schools-and-programs",
+					"name": "MBA Schools and Programs",
+					"id": 16641
+				},
+				{
+					"urlkey": "wealth-creation",
+					"name": "Wealth Creation",
+					"id": 16839
+				},
+				{
+					"urlkey": "technical-analysis",
+					"name": "Technical Analysis",
+					"id": 17232
+				},
+				{
+					"urlkey": "financial-education",
+					"name": "Financial Education",
+					"id": 18341
+				},
+				{
+					"urlkey": "bitcoin",
+					"name": "Bitcoin",
+					"id": 139517
+				},
+				{
+					"urlkey": "cryptocurrency",
+					"name": "Cryptocurrency",
+					"id": 191791
+				},
+				{
+					"urlkey": "crypto-currency",
+					"name": "Crypto Currency",
+					"id": 1515124
+				}
+			],
+			"link": "https://www.meetup.com/global-markets-traders-group/",
+			"rating": 5,
+			"description": "<p><span>Meet with other traders <strong><em>(face to face or online to your PC through our state of the art webinar tools)</em></strong> who engage in futures, index's, stocks, crypto-currency's, blockchains, ICO's, commodities and forex trading.</span></p>\n<p><span>The goals is to create a supportive environment where all group members can share their ideas, learn something new and ultimately achieve success in their trading plan.</span></p>\n<p><span>Our group includes experienced traders and newbie’s looking to start out on the right trading foot.</span></p>\n<p><span>We will meet up with trading experts who will give educational presentations.</span></p>\n<p><span>We also like to meet up and go out for a meal, some drinks and share stories - both good and bad.</span></p>",
+			"lon": -73.9800033569336,
+			"group_photo": {
+				"highres_link": "https://secure.meetupstatic.com/photos/event/2/6/6/7/highres_7089831.jpeg",
+				"photo_id": 7089831,
+				"base_url": "https://secure.meetupstatic.com",
+				"type": "event",
+				"photo_link": "https://secure.meetupstatic.com/photos/event/2/6/6/7/600_7089831.jpeg",
+				"thumb_link": "https://secure.meetupstatic.com/photos/event/2/6/6/7/thumb_7089831.jpeg"
+			},
+			"join_mode": "open",
+			"organizer": {
+				"member_id": 47135532,
+				"name": "Saul Shaoul",
+				"photo": {
+					"highres_link": "https://secure.meetupstatic.com/photos/member/d/d/d/8/highres_53396792.jpeg",
+					"photo_id": 53396792,
+					"base_url": "https://secure.meetupstatic.com",
+					"type": "member",
+					"photo_link": "https://secure.meetupstatic.com/photos/member/d/d/d/8/member_53396792.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/member/d/d/d/8/thumb_53396792.jpeg"
+				}
+			},
+			"members": 1340,
+			"name": "MBA Finance & Global - Investors - BlockChain & Bankers Club",
+			"id": 1367788,
+			"state": "NY",
+			"urlname": "global-markets-traders-group",
+			"category": {
+				"name": "career/business",
+				"id": 2,
+				"shortname": "career-business"
+			},
+			"lat": 40.75,
+			"who": "Traders"
+		},
+		{
+			"utc_offset": -28800000,
+			"country": "US",
+			"visibility": "public",
+			"city": "Irvine",
+			"timezone": "US/Pacific",
+			"created": 1250282883000,
+			"topics": [
+				{
+					"urlkey": "investing",
+					"name": "Investing",
+					"id": 1307
+				},
+				{
+					"urlkey": "daytraders",
+					"name": "Day Traders",
+					"id": 2088
+				},
+				{
+					"urlkey": "forextrading",
+					"name": "Forex Trading",
+					"id": 8431
+				},
+				{
+					"urlkey": "futures-trading",
+					"name": "Futures Trading",
+					"id": 16268
+				},
+				{
+					"urlkey": "currency-trading",
+					"name": "Currency Trading",
+					"id": 16269
+				},
+				{
+					"urlkey": "technical-analysis",
+					"name": "Technical Analysis",
+					"id": 17232
+				},
+				{
+					"urlkey": "online-trading-academy",
+					"name": "Online Trading Academy",
+					"id": 21294
+				},
+				{
+					"urlkey": "options-trading",
+					"name": "Options Trading",
+					"id": 24425
+				},
+				{
+					"urlkey": "trading",
+					"name": "Trading",
+					"id": 26906
+				},
+				{
+					"urlkey": "swing-traders",
+					"name": "Swing Traders",
+					"id": 28249
+				},
+				{
+					"urlkey": "trading-education",
+					"name": "Trading Education",
+					"id": 36030
+				},
+				{
+					"urlkey": "online-trading",
+					"name": "Online Trading",
+					"id": 47264
+				},
+				{
+					"urlkey": "emini-trading",
+					"name": "Emini Trading",
+					"id": 47266
+				},
+				{
+					"urlkey": "bitcoin",
+					"name": "Bitcoin",
+					"id": 139517
+				},
+				{
+					"urlkey": "cryptocurrency",
+					"name": "Cryptocurrency",
+					"id": 191791
+				}
+			],
+			"link": "https://www.meetup.com/Los-Angeles-Crypto-Currency-Bitcoin-Traders-Education-Group/",
+			"rating": 4.2,
+			"description": "<p><span>Meet with other local floor and online traders <strong><em>(face to face or online to your PC through our state of the art webinar tools)</em></strong> who engage in futures, crypto currency's, bitcoin, index's, stocks, commodities and forex trading.</span></p>\n<p><span>The goals is to create a supportive environment where all group members can share their ideas, learn something new and ultimately achieve success in their trading plan.</span></p>\n<p><span>Our group includes experienced local floor and online traders and newbie’s looking to start out on the right trading foot.</span></p>\n<p><span>We will meet up with trading experts who will give educational presentations.</span></p>\n<p><span>We also like to meet up and go out for a meal, some drinks and share stories - both good and bad.</span></p>\n<p><strong>Important Disclaimer: <br> </strong>Upon viewing, reading, utilizing, downloading, participation, attending, registration and/or purchase/attendance in/of any of the Online Traders Network, FBN, Floor Traders Club, Educational Products, Channels, Chat Rooms, Webinars, Videos, Newsletters or Services including put not limited to This Educational Only Channel, I hereby waive all claims against Online Traders Network, FBN, Floor Traders Club, spokespersons, linda lesniak, Saul Shaoul, sponsors, organizers, benefactors including the Financial Broadcasting Network or anyone else associated in any way with any of Online Traders Network, FBN, Floor traders Club Seminars, Educational Products, Workshops, Newsletters, Webinars, Events, Chat Rooms, Channels, DVDs or Trade-Along Online or other for any loss in trading or personal expense I incur related to but not limited to these materials/webinars/chat rooms/channels/seminars/newsletters and events. <br> I am aware and agree that these materials/webinars/chat rooms/channels/seminars/newsletters and events are provided/conducted for educational purposes only and Nothing provided is to be taken as trading advice.</p>\n<p><strong>IMPORTANT: <br> </strong>The risk of loss in online trading futures, options, cash currencies and other leveraged transaction products can be substantial. Therefore only “risk capital” should be used. Futures, options, cash currencies and other leveraged transaction products are not suitable investments for everyone. The valuation of futures, options, cash currencies and other leveraged transaction products may fluctuate and as a result clients may lose more than the amount originally invested and may also have to pay more later. Consider your financial condition before deciding to invest or online trade.</p>\n<p><strong>CFTC RULE 4.41 <br> </strong>Hypothetical or simulated performance results have certain inherent limitations unlike actual performance record: simulated results do not represent actual trading. Also, since the trades have not actually been executed, the results may have under- or overcompensated of the impact, if any, of certain market factors, such as lack of liquidity. Simulated trading programs in general are also subject to the fact that they are designed with the benefit of hindsight. No presentation is being made that any account will or is likely to achieve profits or losses similar to those predicted or shown.</p>",
+			"lon": -117.83000183105469,
+			"group_photo": {
+				"highres_link": "https://secure.meetupstatic.com/photos/event/7/c/8/highres_119881992.jpeg",
+				"photo_id": 119881992,
+				"base_url": "https://secure.meetupstatic.com",
+				"type": "event",
+				"photo_link": "https://secure.meetupstatic.com/photos/event/7/c/8/600_119881992.jpeg",
+				"thumb_link": "https://secure.meetupstatic.com/photos/event/7/c/8/thumb_119881992.jpeg"
+			},
+			"join_mode": "open",
+			"organizer": {
+				"member_id": 47135532,
+				"name": "Saul Shaoul",
+				"photo": {
+					"highres_link": "https://secure.meetupstatic.com/photos/member/d/d/d/8/highres_53396792.jpeg",
+					"photo_id": 53396792,
+					"base_url": "https://secure.meetupstatic.com",
+					"type": "member",
+					"photo_link": "https://secure.meetupstatic.com/photos/member/d/d/d/8/member_53396792.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/member/d/d/d/8/thumb_53396792.jpeg"
+				}
+			},
+			"members": 195,
+			"name": "Los Angeles Crypto-Currency Bitcoin Traders Education Group",
+			"id": 1506626,
+			"state": "CA",
+			"urlname": "Los-Angeles-Crypto-Currency-Bitcoin-Traders-Education-Group",
+			"category": {
+				"name": "career/business",
+				"id": 2,
+				"shortname": "career-business"
+			},
+			"lat": 33.68000030517578,
+			"who": "Traders"
+		},
+		{
+			"utc_offset": -28800000,
+			"country": "US",
+			"visibility": "public",
+			"city": "Portland",
+			"timezone": "US/Pacific",
+			"created": 1252788674000,
+			"topics": [
+				{
+					"urlkey": "ebizowners",
+					"name": "E-Business Owners",
+					"id": 1330
+				},
+				{
+					"urlkey": "softwaredev",
+					"name": "Software Development",
+					"id": 3833
+				},
+				{
+					"urlkey": "socialnetwork",
+					"name": "Social Networking",
+					"id": 4422
+				},
+				{
+					"urlkey": "newtech",
+					"name": "New Technology",
+					"id": 9696
+				},
+				{
+					"urlkey": "web",
+					"name": "Web Technology",
+					"id": 10209
+				},
+				{
+					"urlkey": "women-entrepreneurs",
+					"name": "Women Entrepreneurs",
+					"id": 15497
+				},
+				{
+					"urlkey": "web-development",
+					"name": "Web Development",
+					"id": 15582
+				},
+				{
+					"urlkey": "professional-networking",
+					"name": "Professional Networking",
+					"id": 15720
+				},
+				{
+					"urlkey": "mobile-technology",
+					"name": "Mobile Technology",
+					"id": 16216
+				},
+				{
+					"urlkey": "startup-businesses",
+					"name": "Startup Businesses",
+					"id": 21681
+				},
+				{
+					"urlkey": "computer-programming",
+					"name": "Computer programming",
+					"id": 48471
+				},
+				{
+					"urlkey": "virtual-currency",
+					"name": "Virtual Currency",
+					"id": 70315
+				},
+				{
+					"urlkey": "cryptocurrency",
+					"name": "Cryptocurrency",
+					"id": 191791
+				},
+				{
+					"urlkey": "ethereum",
+					"name": "Ethereum",
+					"id": 1471992
+				},
+				{
+					"urlkey": "crypto-currency",
+					"name": "Crypto Currency",
+					"id": 1515124
+				}
+			],
+			"link": "https://www.meetup.com/NewTechPDX/",
+			"rating": 4.76,
+			"description": "<p><span>Welcome to NewTech PDX, Portland's premier ongoing monthly tech event. This event is for the community, by the community! Done in partnership with local community resources, our events</span> <span>happen on the 3rd Monday evening of every month. Want to know more? Just ask!</span></p>\n<p><span>See you at our next event!</span></p>",
+			"lon": -122.63999938964844,
+			"group_photo": {
+				"highres_link": "https://secure.meetupstatic.com/photos/event/1/4/5/5/highres_432545205.jpeg",
+				"photo_id": 432545205,
+				"base_url": "https://secure.meetupstatic.com",
+				"type": "event",
+				"photo_link": "https://secure.meetupstatic.com/photos/event/1/4/5/5/600_432545205.jpeg",
+				"thumb_link": "https://secure.meetupstatic.com/photos/event/1/4/5/5/thumb_432545205.jpeg"
+			},
+			"join_mode": "open",
+			"organizer": {
+				"member_id": 2856620,
+				"name": "Thubten",
+				"photo": {
+					"highres_link": "https://secure.meetupstatic.com/photos/member/1/c/0/6/highres_253927174.jpeg",
+					"photo_id": 253927174,
+					"base_url": "https://secure.meetupstatic.com",
+					"type": "member",
+					"photo_link": "https://secure.meetupstatic.com/photos/member/1/c/0/6/member_253927174.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/member/1/c/0/6/thumb_253927174.jpeg"
+				}
+			},
+			"members": 6819,
+			"name": "NewTech PDX",
+			"id": 1522606,
+			"state": "OR",
+			"urlname": "NewTechPDX",
+			"category": {
+				"name": "tech",
+				"id": 34,
+				"shortname": "tech"
+			},
+			"lat": 45.52000045776367,
+			"who": "Tech Fanatics"
+		},
+		{
+			"utc_offset": -18000000,
+			"country": "CA",
+			"visibility": "public",
+			"city": "North York",
+			"timezone": "Canada/Eastern",
+			"created": 1259933916000,
+			"topics": [
+				{
+					"urlkey": "investing",
+					"name": "Investing",
+					"id": 1307
+				},
+				{
+					"urlkey": "forextrading",
+					"name": "Forex Trading",
+					"id": 8431
+				},
+				{
+					"urlkey": "futures-trading",
+					"name": "Futures Trading",
+					"id": 16268
+				},
+				{
+					"urlkey": "financial-independence",
+					"name": "Financial Independence",
+					"id": 16601
+				},
+				{
+					"urlkey": "wealth-creation",
+					"name": "Wealth Creation",
+					"id": 16839
+				},
+				{
+					"urlkey": "financial-freedom",
+					"name": "Financial Freedom",
+					"id": 16899
+				},
+				{
+					"urlkey": "technical-analysis",
+					"name": "Technical Analysis",
+					"id": 17232
+				},
+				{
+					"urlkey": "stock-trading",
+					"name": "Stock Trading",
+					"id": 17234
+				},
+				{
+					"urlkey": "financial-education",
+					"name": "Financial Education",
+					"id": 18341
+				},
+				{
+					"urlkey": "stocks-and-options",
+					"name": "Stocks and Options",
+					"id": 19809
+				},
+				{
+					"urlkey": "stock-investing",
+					"name": "Stock Investing",
+					"id": 22016
+				},
+				{
+					"urlkey": "personal-finance",
+					"name": "Personal Finance",
+					"id": 22979
+				},
+				{
+					"urlkey": "options-trading",
+					"name": "Options Trading",
+					"id": 24425
+				},
+				{
+					"urlkey": "bitcoin",
+					"name": "Bitcoin",
+					"id": 139517
+				},
+				{
+					"urlkey": "cryptocurrency",
+					"name": "Cryptocurrency",
+					"id": 191791
+				}
+			],
+			"link": "https://www.meetup.com/Toronto-Personal-Finance/",
+			"rating": 4.77,
+			"description": "<p>Welcome Investors - Traders,</p>\n<p>Here is a quick shout out from the Trading Floor</p>\n<p>Congratulations on joining.</p>\n<p>Please find some key online trading tools and links we believe will help you&nbsp; <br>in your online trading.</p>\n<p>Daily Trading Tool: <a href=\"http://PitIQ.TV\" class=\"linkified\">http://PitIQ.TV</a> tune in daily to Pit IQ&nbsp; <br>on your PC and receive key online trading information, trading strategies and setups from the CME Group Trading Floor (pit) in Chicago via live Audio and Charts.&nbsp;</p>\n<p>Free Trial Access Link:&nbsp;<a href=\"http://pitiq.tv/1yiyP7N\">http://PitIQ.TV</a></p>\n<p>For Online Trading Education and Mentoring Services call&nbsp; <br>Me Saul at 1 312 685 2582 or on Skype: marketvu Call and I will consult with&nbsp; <br>you personally.</p>\n<p>All the best in your trading&nbsp; <br>Saul</p>\n<p>Saul Shaoul&nbsp; <br>CME Group Member&nbsp; <br>141 W Jackson Suite #1404&nbsp; <br>Chicago IL 60604&nbsp; <br>Tel: (312) 685 2582&nbsp; <br>Email:&nbsp;<a href=\"mailto:services@PitIntelligence.com\">services@PitIntelligence.com</a>&nbsp; <br>Twitter:&nbsp;<a href=\"http://twitter.com/PitIntelligence\">http://twitter.com/PitIntelligence</a>&nbsp; <br>Facebook Page:&nbsp;<a href=\"http://www.facebook.com/trading.futures\">http://www.facebook.com/trading.futures</a></p>\n<p>Pit IQ (Pit Intelligence) - Online Floor Channel Access&nbsp; <br><a href=\"http://pitiq.tv/1yiyP7N\">http://PitIQ.TV</a></p>\n<p> <br></p>",
+			"lon": -79.41000366210938,
+			"group_photo": {
+				"highres_link": "https://secure.meetupstatic.com/photos/event/c/3/c/0/highres_379610112.jpeg",
+				"photo_id": 379610112,
+				"base_url": "https://secure.meetupstatic.com",
+				"type": "event",
+				"photo_link": "https://secure.meetupstatic.com/photos/event/c/3/c/0/600_379610112.jpeg",
+				"thumb_link": "https://secure.meetupstatic.com/photos/event/c/3/c/0/thumb_379610112.jpeg"
+			},
+			"join_mode": "approval",
+			"organizer": {
+				"member_id": 182948610,
+				"name": "TedTrader",
+				"photo": {
+					"highres_link": "https://secure.meetupstatic.com/photos/member/b/e/3/5/highres_256608693.jpeg",
+					"photo_id": 256608693,
+					"base_url": "https://secure.meetupstatic.com",
+					"type": "member",
+					"photo_link": "https://secure.meetupstatic.com/photos/member/b/e/3/5/member_256608693.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/member/b/e/3/5/thumb_256608693.jpeg"
+				}
+			},
+			"members": 733,
+			"name": "Toronto Bitcoin Crypto-Currency Personal Trading Education",
+			"id": 1565366,
+			"state": "ON",
+			"urlname": "Toronto-Personal-Finance",
+			"category": {
+				"name": "career/business",
+				"id": 2,
+				"shortname": "career-business"
+			},
+			"lat": 43.77000045776367,
+			"who": "Traders"
+		},
+		{
+			"utc_offset": -18000000,
+			"country": "US",
+			"visibility": "public",
+			"city": "Miami",
+			"timezone": "US/Eastern",
+			"created": 1260196903000,
+			"topics": [
+				{
+					"urlkey": "workathome",
+					"name": "Work At Home",
+					"id": 589
+				},
+				{
+					"urlkey": "daytraders",
+					"name": "Day Traders",
+					"id": 2088
+				},
+				{
+					"urlkey": "forextrading",
+					"name": "Forex Trading",
+					"id": 8431
+				},
+				{
+					"urlkey": "currency-trading",
+					"name": "Currency Trading",
+					"id": 16269
+				},
+				{
+					"urlkey": "forex-expert-advisors-and-managed-accounts",
+					"name": "Forex Expert Advisors and Managed Accounts",
+					"id": 64992
+				},
+				{
+					"urlkey": "virtual-currency",
+					"name": "Virtual Currency",
+					"id": 70315
+				},
+				{
+					"urlkey": "bitcoin",
+					"name": "Bitcoin",
+					"id": 139517
+				},
+				{
+					"urlkey": "cryptocurrency",
+					"name": "Cryptocurrency",
+					"id": 191791
+				},
+				{
+					"urlkey": "ethereum",
+					"name": "Ethereum",
+					"id": 1471992
+				},
+				{
+					"urlkey": "how-to-invest-in-bitcoin",
+					"name": "How to invest in Bitcoin",
+					"id": 1506491
+				},
+				{
+					"urlkey": "crypto-currency",
+					"name": "Crypto Currency",
+					"id": 1515124
+				}
+			],
+			"link": "https://www.meetup.com/MiamiTradingClub/",
+			"rating": 4.57,
+			"description": "<p>This group is designed for new and experienced stock, forex and crypto currency traders.</p>\n<p>This group was formed to encourage collaboration among its members so that all members can become more profitable trading stocks, forex and now crypto currencies like Bitcoin by sharing information and ideas that will save each other time, money and energy in the process.</p>\n<p><span>Let’s have fun, make money and enjoy the journey together in a friendly environment!</span> <br></p>\n<p>Please call me at (305) 389-0170 cell to introduce yourself and if you have any questions. You may also email me at: Mike@AutomaticProfits.com</p>\n<p>T<span>hank you and we look forward to meeting you and collaborating with you at our next meeting.</span></p>\n<p><span><a href=\"http://MiamiForexClub.com\" class=\"linkified\">http://AutomaticProfits.com</a></span></p>",
+			"lon": -80.4800033569336,
+			"group_photo": {
+				"highres_link": "https://secure.meetupstatic.com/photos/event/4/4/d/9/highres_12137625.jpeg",
+				"photo_id": 12137625,
+				"base_url": "https://secure.meetupstatic.com",
+				"type": "event",
+				"photo_link": "https://secure.meetupstatic.com/photos/event/4/4/d/9/600_12137625.jpeg",
+				"thumb_link": "https://secure.meetupstatic.com/photos/event/4/4/d/9/thumb_12137625.jpeg"
+			},
+			"join_mode": "open",
+			"organizer": {
+				"member_id": 10979627,
+				"name": "Mike Torres",
+				"photo": {
+					"highres_link": "https://secure.meetupstatic.com/photos/member/c/5/6/c/highres_8330540.jpeg",
+					"photo_id": 8330540,
+					"base_url": "https://secure.meetupstatic.com",
+					"type": "member",
+					"photo_link": "https://secure.meetupstatic.com/photos/member/c/5/6/c/member_8330540.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/member/c/5/6/c/thumb_8330540.jpeg"
+				}
+			},
+			"members": 401,
+			"name": "Miami-Kendall Forex and Bitcoin Trading Club",
+			"id": 1566488,
+			"state": "FL",
+			"urlname": "MiamiTradingClub",
+			"category": {
+				"name": "career/business",
+				"id": 2,
+				"shortname": "career-business"
+			},
+			"lat": 25.649999618530273,
+			"who": "Members"
+		},
+		{
+			"utc_offset": -25200000,
+			"country": "US",
+			"visibility": "public_limited",
+			"city": "Phoenix",
+			"timezone": "US/Arizona",
+			"created": 1269298714000,
+			"topics": [
+				{
+					"urlkey": "investing",
+					"name": "Investing",
+					"id": 1307
+				},
+				{
+					"urlkey": "daytraders",
+					"name": "Day Traders",
+					"id": 2088
+				},
+				{
+					"urlkey": "ibd",
+					"name": "Investor's Business Daily",
+					"id": 2545
+				},
+				{
+					"urlkey": "stock-trading",
+					"name": "Stock Trading",
+					"id": 17234
+				},
+				{
+					"urlkey": "stocks-and-options",
+					"name": "Stocks and Options",
+					"id": 19809
+				},
+				{
+					"urlkey": "options-trading",
+					"name": "Options Trading",
+					"id": 24425
+				},
+				{
+					"urlkey": "stock-market-trading",
+					"name": "Stock market trading",
+					"id": 24472
+				},
+				{
+					"urlkey": "options-trading-and-strategies",
+					"name": "Options Trading and Strategies",
+					"id": 49869
+				},
+				{
+					"urlkey": "virtual-currency",
+					"name": "Virtual Currency",
+					"id": 70315
+				},
+				{
+					"urlkey": "bitcoin",
+					"name": "Bitcoin",
+					"id": 139517
+				},
+				{
+					"urlkey": "digital-currency",
+					"name": "Digital Currency",
+					"id": 143713
+				},
+				{
+					"urlkey": "cryptocurrency",
+					"name": "Cryptocurrency",
+					"id": 191791
+				},
+				{
+					"urlkey": "weekly-options",
+					"name": "Weekly Options",
+					"id": 236001
+				},
+				{
+					"urlkey": "ethereum",
+					"name": "Ethereum",
+					"id": 1471992
+				},
+				{
+					"urlkey": "how-to-invest-in-bitcoin",
+					"name": "How to invest in Bitcoin",
+					"id": 1506491
+				}
+			],
+			"link": "https://www.meetup.com/ArizonaTraders/",
+			"rating": 4.64,
+			"description": "<p>Free option trading updates from WhiteRockUSA.com:&nbsp;<a>https://forms.aweber.com/form/13/1422350713.htm</a></p>\n<p>Free cryptocurrency trading updates and portfolio from Crypto Alpha&nbsp;<a>www.Option80.com:</a>&nbsp;<a>http://forms.aweber.com/form/65/558119065.htm</a></p>\n<p>Hello, and welcome to the Cryptocurrency and Option Trading Group.&nbsp; We discuss Bitcoin, Altcoins, Butterflies, Condors, Ratios, Verticals, Positive Vega structures via crash protection, and more.&nbsp; Most of our discussions lean toward trend following crypto coins, and positive theta option trading.&nbsp; All experience levels are welcome.&nbsp; The goal of this meetup is for all attendees to receive insightful information.&nbsp;</p>\n<p>The organizers run the WhiteRock&nbsp;Iron Condor and Iron Butterfly Newsletter which maintains a positive vega stance for crash protection.&nbsp; WhiteRock has developed a unique way to structure 3 legged Spreads, and 5 legged Iron Condors and Butterflies, to collect premium, yet remain positive vega for crash protection.&nbsp; When market crashes occur, the VIX quickly rises to elevated levels, and negative vega trade structures are adversely affected.&nbsp; WhiteRock's trade structures have the potential to perform well in a market crash.</p>\n<p>WhiteRock offers a complimentary newsletter with spread and performance updates:&nbsp;<a>www.WhiteRockUSA.com</a></p>\n<p>This meetup discusses, and discloses, these positive vega trade structures so attendees can implement them on their own.&nbsp; Others may want to subscribe to our newsletter to follow along, or have a Registered Adviser implement the newsletter on their behalf.&nbsp;</p>\n<p>RISK STATEMENT: The trading of options, stocks, futures, commodities, index futures or any other securities has potential rewards, and it also has potential risks involved. Trading may not be suitable for all individuals. Anyone wishing to invest should seek his or her own independent financial or professional advice. Past performance is not necessarily indicative of future results. There are risks associated with all investments including trading stocks and options. No trading recommendations are being offered.&nbsp; This information is for educational purposes only.&nbsp; We, and any affiliates, are not offering financial advice, and by attending this event, or utilizing this information, you agree to our terms of use and service, and understand all risk is taken at your own discretion.&nbsp;</p>\n<br>",
+			"lon": -112.02999877929688,
+			"group_photo": {
+				"highres_link": "https://secure.meetupstatic.com/photos/event/a/a/f/6/highres_448663766.jpeg",
+				"photo_id": 448663766,
+				"base_url": "https://secure.meetupstatic.com",
+				"type": "event",
+				"photo_link": "https://secure.meetupstatic.com/photos/event/a/a/f/6/600_448663766.jpeg",
+				"thumb_link": "https://secure.meetupstatic.com/photos/event/a/a/f/6/thumb_448663766.jpeg"
+			},
+			"join_mode": "open",
+			"organizer": {
+				"member_id": 198584082,
+				"name": "JM",
+				"photo": {
+					"highres_link": "https://secure.meetupstatic.com/photos/member/3/6/5/8/highres_253933912.jpeg",
+					"photo_id": 253933912,
+					"base_url": "https://secure.meetupstatic.com",
+					"type": "member",
+					"photo_link": "https://secure.meetupstatic.com/photos/member/3/6/5/8/member_253933912.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/member/3/6/5/8/thumb_253933912.jpeg"
+				}
+			},
+			"members": 576,
+			"name": "Arizona Cryptocurrency and Option Group",
+			"id": 1618755,
+			"state": "AZ",
+			"urlname": "ArizonaTraders",
+			"category": {
+				"name": "career/business",
+				"id": 2,
+				"shortname": "career-business"
+			},
+			"lat": 33.439998626708984,
+			"who": "Traders"
+		},
+		{
+			"utc_offset": -28800000,
+			"country": "US",
+			"visibility": "public",
+			"city": "Los Angeles",
+			"timezone": "US/Pacific",
+			"created": 1273362449000,
+			"topics": [
+				{
+					"urlkey": "softwaredev",
+					"name": "Software Development",
+					"id": 3833
+				},
+				{
+					"urlkey": "javascript",
+					"name": "JavaScript",
+					"id": 7029
+				},
+				{
+					"urlkey": "web",
+					"name": "Web Technology",
+					"id": 10209
+				},
+				{
+					"urlkey": "software-engineering",
+					"name": "Software Engineering",
+					"id": 16325
+				},
+				{
+					"urlkey": "computer-programming",
+					"name": "Computer programming",
+					"id": 48471
+				},
+				{
+					"urlkey": "virtual-currency",
+					"name": "Virtual Currency",
+					"id": 70315
+				},
+				{
+					"urlkey": "bitcoin",
+					"name": "Bitcoin",
+					"id": 139517
+				},
+				{
+					"urlkey": "digital-currency",
+					"name": "Digital Currency",
+					"id": 143713
+				},
+				{
+					"urlkey": "cryptocurrency",
+					"name": "Cryptocurrency",
+					"id": 191791
+				},
+				{
+					"urlkey": "bitcoin-miners",
+					"name": "Bitcoin Miners",
+					"id": 462662
+				},
+				{
+					"urlkey": "smart-contracts",
+					"name": "Smart Contracts",
+					"id": 1471982
+				},
+				{
+					"urlkey": "ethereum",
+					"name": "Ethereum",
+					"id": 1471992
+				},
+				{
+					"urlkey": "bitcoin-security",
+					"name": "Bitcoin Security",
+					"id": 1483532
+				},
+				{
+					"urlkey": "blockchain",
+					"name": "Blockchain",
+					"id": 1493232
+				}
+			],
+			"link": "https://www.meetup.com/blockchainCentral/",
+			"rating": 4.79,
+			"description": "<p><span><strong>Are you a Startup/Freelancer/Entrepreneur/Coder interested in cutting-edge blockchain technologies?</strong> <br> </span><span> <br></span></p>\n<p><span>We have you covered!&nbsp;</span></p>\n<p><span> <br></span></p>\n<p><span>** In order to join this group, you must be approved. We want to make sure it grows organically... just like the blockchain!</span><span> <br></span></p>\n<p> <br></p>",
+			"lon": -118.23999786376953,
+			"group_photo": {
+				"highres_link": "https://secure.meetupstatic.com/photos/event/c/e/1/1/highres_462412753.jpeg",
+				"photo_id": 462412753,
+				"base_url": "https://secure.meetupstatic.com",
+				"type": "event",
+				"photo_link": "https://secure.meetupstatic.com/photos/event/c/e/1/1/600_462412753.jpeg",
+				"thumb_link": "https://secure.meetupstatic.com/photos/event/c/e/1/1/thumb_462412753.jpeg"
+			},
+			"join_mode": "approval",
+			"organizer": {
+				"member_id": 199389463,
+				"name": "Ryo T.",
+				"photo": {
+					"highres_link": "https://secure.meetupstatic.com/photos/member/d/0/4/e/highres_253733326.jpeg",
+					"photo_id": 253733326,
+					"base_url": "https://secure.meetupstatic.com",
+					"type": "member",
+					"photo_link": "https://secure.meetupstatic.com/photos/member/d/0/4/e/member_253733326.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/member/d/0/4/e/thumb_253733326.jpeg"
+				}
+			},
+			"members": 1110,
+			"name": "BLOCKCHAIN CENTRAL",
+			"id": 1642655,
+			"state": "CA",
+			"urlname": "blockchainCentral",
+			"category": {
+				"name": "tech",
+				"id": 34,
+				"shortname": "tech"
+			},
+			"lat": 34.060001373291016,
+			"who": "Blockchainers"
+		},
+		{
+			"utc_offset": -18000000,
+			"country": "US",
+			"visibility": "public",
+			"city": "Washington",
+			"timezone": "US/Eastern",
+			"created": 1292574567000,
+			"topics": [
+				{
+					"urlkey": "money",
+					"name": "Money",
+					"id": 15580
+				},
+				{
+					"urlkey": "internet-ecommerce",
+					"name": "E-Commerce",
+					"id": 27954
+				},
+				{
+					"urlkey": "virtual-currency",
+					"name": "Virtual Currency",
+					"id": 70315
+				},
+				{
+					"urlkey": "payment-systems",
+					"name": "Payment Systems",
+					"id": 127600
+				},
+				{
+					"urlkey": "bitcoin",
+					"name": "Bitcoin",
+					"id": 139517
+				},
+				{
+					"urlkey": "digital-currency",
+					"name": "Digital Currency",
+					"id": 143713
+				},
+				{
+					"urlkey": "cryptocurrency",
+					"name": "Cryptocurrency",
+					"id": 191791
+				},
+				{
+					"urlkey": "bitcoin-miners",
+					"name": "Bitcoin Miners",
+					"id": 462662
+				}
+			],
+			"link": "https://www.meetup.com/BitcoinDC/",
+			"rating": 4.6,
+			"description": "<p>Blockchain Users Meetup -- share and learn: best practices, bitcoin ideas, brainstorming, troubleshooting, development, merchant services, investing, promotion, mobile application development, online sales automation, etc. We also cover other crypto-currencies and Crypto 2.0 ( Ethereum, Omni, Colored Coins, etc). This is a social, learning, and business networking group. Everyone is welcome. It should prove to be very profitable for all. &nbsp;We also have a <a href=\"http://www.facebook.com/home.php?sk=group_110589392364895\">Facebook Group</a> and a <a href=\"http://bitcoindc.org\">Website</a>.</p>",
+			"lon": -77.02999877929688,
+			"group_photo": {
+				"highres_link": "https://secure.meetupstatic.com/photos/event/6/0/b/0/highres_254664752.jpeg",
+				"photo_id": 254664752,
+				"base_url": "https://secure.meetupstatic.com",
+				"type": "event",
+				"photo_link": "https://secure.meetupstatic.com/photos/event/6/0/b/0/600_254664752.jpeg",
+				"thumb_link": "https://secure.meetupstatic.com/photos/event/6/0/b/0/thumb_254664752.jpeg"
+			},
+			"join_mode": "open",
+			"organizer": {
+				"member_id": 127040172,
+				"name": "Darrell Duane",
+				"photo": {
+					"highres_link": "https://secure.meetupstatic.com/photos/member/7/3/0/d/highres_265109453.jpeg",
+					"photo_id": 265109453,
+					"base_url": "https://secure.meetupstatic.com",
+					"type": "member",
+					"photo_link": "https://secure.meetupstatic.com/photos/member/7/3/0/d/member_265109453.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/member/7/3/0/d/thumb_265109453.jpeg"
+				}
+			},
+			"members": 2712,
+			"name": "DC Blockchain Users Group (Bitcoin & Beyond)",
+			"id": 1751612,
+			"state": "DC",
+			"urlname": "BitcoinDC",
+			"category": {
+				"name": "tech",
+				"id": 34,
+				"shortname": "tech"
+			},
+			"lat": 38.93000030517578,
+			"who": "DC Blockchainers"
+		},
+		{
+			"utc_offset": -28800000,
+			"country": "CA",
+			"visibility": "public",
+			"city": "Kelowna",
+			"timezone": "Canada/Pacific",
+			"created": 1299528760000,
+			"topics": [
+				{
+					"urlkey": "webdesign",
+					"name": "Web Design",
+					"id": 659
+				},
+				{
+					"urlkey": "productdesign",
+					"name": "Product Design",
+					"id": 2993
+				},
+				{
+					"urlkey": "self-improvement",
+					"name": "Self-Improvement",
+					"id": 3336
+				},
+				{
+					"urlkey": "web-development",
+					"name": "Web Development",
+					"id": 15582
+				},
+				{
+					"urlkey": "game-design",
+					"name": "Game Design",
+					"id": 19225
+				},
+				{
+					"urlkey": "user-experience",
+					"name": "User Experience",
+					"id": 19243
+				},
+				{
+					"urlkey": "entrepreneurship",
+					"name": "Entrepreneurship",
+					"id": 19882
+				},
+				{
+					"urlkey": "community-building",
+					"name": "Community Building",
+					"id": 20727
+				},
+				{
+					"urlkey": "agile-project-management",
+					"name": "Agile Project Management",
+					"id": 21549
+				},
+				{
+					"urlkey": "startup-businesses",
+					"name": "Startup Businesses",
+					"id": 21681
+				},
+				{
+					"urlkey": "lean-startup",
+					"name": "Lean Startup",
+					"id": 38660
+				},
+				{
+					"urlkey": "internet-startups",
+					"name": "Internet Startups",
+					"id": 128595
+				},
+				{
+					"urlkey": "cryptocurrency",
+					"name": "Cryptocurrency",
+					"id": 191791
+				}
+			],
+			"link": "https://www.meetup.com/DigitalOkanagan/",
+			"rating": 4.76,
+			"description": "<p>Digital Okanagan - Tech Community Events is a group for all technology community events happening in the Okanagan. The group has grown to include events such as Lean Coffee, HackNights, co-working and any other events that appeal to&nbsp;developers, designers and&nbsp;entrepreneurs. If there is a tech event you'd like to see in the Okanagan, please contact us!</p>\n<p>Here are some popular ongoing events:</p>\n<p><strong>Startup Coffee Kelowna (#StartupCoffeeKL)</strong> #StartupCoffeeKL is a reboot on the long running #LeanCoffee movement which kicked off in Kelowna back in 2011. Startup Coffee has evolved into a social, morning coffee peer group which reviews and debates intertwined trends of startups, globalization, software, marketing, venture capital, technology, economics, regulations, etc. This series is intended to be useful for technical and business-minded folks alike, and engage the entire entrepreneurial stack.</p>\n<p><a href=\"https://twitter.com/search?q=StartupCoffeeKL&amp;src=typd\">Follow the Startup Coffee conversation on Twitter</a></p>\n<p><span> <br> </span></p>\n<p><span><strong>#devKL</strong></span> is a biweekly meetup to encourage local software developers to collaborate and learn from each other. We're hoping to build the development community by providing group mentorship, and encouraging members to connect and continue the collaboration between events.</p>\n<p><span><span><strong>Art Brew</strong> Come hang with some funny, creative artists and share projects, inspiration or just bring your pencils and have a go at sketching.&nbsp;If anything else you’ll be caffeinated, stretch some drawing muscles and have a good laugh.</span></span></p>\n<p><strong><a href=\"https://www.facebook.com/MADNightsKL\">MAD Nights</a></strong> MAD (Marketing And Design) Nights are evenings of education and sharing stories (with some food, drink and networking on the side).</p>\n<p><a href=\"https://www.facebook.com/MADNightsKL\">More about Mad Nights on Facebook</a></p>\n<p><span> <br> </span></p>\n<p><strong><a href=\"http://okdg.org\">OKDG</a> (Okanagan Developer Group)</strong> is a monthly meet-up <span>hosting in a casual environment for technology and design professionals to socialize, network and share ideas.</span> Our speakers cover topics ranging from typography to inversion of control and dependency injection. All people who are in the technology space are welcome. Our attendees' backgrounds vary from Software Engineering, Graphic Design, to Students and Project Managers.</p>\n<p>More about OKDG at <a href=\"http://okdg.org\">http://okdg.org</a></p>\n<p>Other places to follow community activity with&nbsp;<strong>Digital Okanagan</strong></p>\n<ul> \n <p>Facebook:&nbsp;<a href=\"https://www.facebook.com/digitalokanagan\">https://www.facebook.com/digitalokanagan</a></p> \n <p>Twitter: <a href=\"http://twitter.com/digitalokanagan\">http://twitter.com/digitalokanagan</a></p> \n <p>Web: <a href=\"http://digitalokanagan.ca\">http://digitalokanagan.ca</a></p> \n</ul>",
+			"lon": -119.48999786376953,
+			"group_photo": {
+				"highres_link": "https://secure.meetupstatic.com/photos/event/d/d/b/0/highres_335516752.jpeg",
+				"photo_id": 335516752,
+				"base_url": "https://secure.meetupstatic.com",
+				"type": "event",
+				"photo_link": "https://secure.meetupstatic.com/photos/event/d/d/b/0/600_335516752.jpeg",
+				"thumb_link": "https://secure.meetupstatic.com/photos/event/d/d/b/0/thumb_335516752.jpeg"
+			},
+			"join_mode": "approval",
+			"organizer": {
+				"member_id": 14190903,
+				"name": "Brent Lachman",
+				"photo": {
+					"highres_link": "https://secure.meetupstatic.com/photos/member/8/d/6/d/highres_265356205.jpeg",
+					"photo_id": 265356205,
+					"base_url": "https://secure.meetupstatic.com",
+					"type": "member",
+					"photo_link": "https://secure.meetupstatic.com/photos/member/8/d/6/d/member_265356205.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/member/8/d/6/d/thumb_265356205.jpeg"
+				}
+			},
+			"members": 1105,
+			"name": "Digital Okanagan - Technology and Creative Community Events",
+			"id": 1794881,
+			"state": "BC",
+			"urlname": "DigitalOkanagan",
+			"category": {
+				"name": "tech",
+				"id": 34,
+				"shortname": "tech"
+			},
+			"lat": 49.88999938964844,
+			"who": "Members"
+		},
+		{
+			"utc_offset": -18000000,
+			"country": "US",
+			"visibility": "public",
+			"city": "New York",
+			"timezone": "US/Eastern",
+			"created": 1301407537000,
+			"topics": [
+				{
+					"urlkey": "investing",
+					"name": "Investing",
+					"id": 1307
+				},
+				{
+					"urlkey": "daytraders",
+					"name": "Day Traders",
+					"id": 2088
+				},
+				{
+					"urlkey": "ibd",
+					"name": "Investor's Business Daily",
+					"id": 2545
+				},
+				{
+					"urlkey": "commodities",
+					"name": "Commodities Trade",
+					"id": 4455
+				},
+				{
+					"urlkey": "forextrading",
+					"name": "Forex Trading",
+					"id": 8431
+				},
+				{
+					"urlkey": "currency-trading",
+					"name": "Currency Trading",
+					"id": 16269
+				},
+				{
+					"urlkey": "entrepreneurship",
+					"name": "Entrepreneurship",
+					"id": 19882
+				},
+				{
+					"urlkey": "stock-investing",
+					"name": "Stock Investing",
+					"id": 22016
+				},
+				{
+					"urlkey": "forex-expert-advisors-and-managed-accounts",
+					"name": "Forex Expert Advisors and Managed Accounts",
+					"id": 64992
+				},
+				{
+					"urlkey": "forex-investment-club",
+					"name": "Forex Investment Club",
+					"id": 73534
+				},
+				{
+					"urlkey": "forex-hedge-fund",
+					"name": "Forex Hedge Fund",
+					"id": 87649
+				},
+				{
+					"urlkey": "managed-funds",
+					"name": "Managed Funds",
+					"id": 94174
+				},
+				{
+					"urlkey": "bitcoin",
+					"name": "Bitcoin",
+					"id": 139517
+				},
+				{
+					"urlkey": "cryptocurrency",
+					"name": "Cryptocurrency",
+					"id": 191791
+				},
+				{
+					"urlkey": "ethereum",
+					"name": "Ethereum",
+					"id": 1471992
+				}
+			],
+			"link": "https://www.meetup.com/The-New-York-Online-Trading-Education-Network/",
+			"rating": 4.95,
+			"description": "<p>Meet with other Online Futures and Forex Traders (face to face or online to your PC through our state of the art webinar tools) who engage in futures, index's, bitcoin, crypto currency, commodities and forex trading. <br> <br> The goals is to create a supportive environment where all group members can share their ideas, learn something new and ultimately achieve success in their trading plan. <br> <br> Our group includes experienced local Floor Traders and Online Traders and newbie’s looking to start out on the right trading foot. <br> <br> We will meet up with trading experts who will give educational presentations. <br> <br> We also like to meet up and go out for a meal, some drinks and share stories - both good and bad. <br> <br> <br> <br> <br> <br> <br> <br> Important Disclaimer: <br> Upon viewing, reading, utilizing, downloading, participation, attending, registration and/or purchase/attendance in/of any of the Online Traders Network, FBN, Floor Traders Club, Educational Products, Channels, Chat Rooms, Webinars, Videos, Newsletters or Services including put not limited to This Educational Only Channel, I hereby waive all claims against Online Traders Network, FBN, Floor Traders Club, spokespersons, linda lesniak, Saul Shaoul, sponsors, organizers, benefactors including the Financial Broadcasting Network or anyone else associated in any way with any of Online Traders Network, FBN, Floor traders Club Seminars, Educational Products, Workshops, Newsletters, Webinars, Events, Chat Rooms, Channels, DVDs or Trade-Along Online or other for any loss in trading or personal expense I incur related to but not limited to these materials/webinars/chat rooms/channels/seminars/newsletters and events. <br> I am aware and agree that these materials/webinars/chat rooms/channels/seminars/newsletters and events are provided/conducted for educational purposes only and Nothing provided is to be taken as trading advice. <br> <br> IMPORTANT: <br> The risk of loss in online trading futures, options, cash currencies and other leveraged transaction products can be substantial. Therefore only “risk capital” should be used. Futures, options, cash currencies and other leveraged transaction products are not suitable investments for everyone. The valuation of futures, options, cash currencies and other leveraged transaction products may fluctuate and as a result clients may lose more than the amount originally invested and may also have to pay more later. Consider your financial condition before deciding to invest or online trade. <br> <br> CFTC RULE 4.41 <br> Hypothetical or simulated performance results have certain inherent limitations unlike actual performance record: simulated results do not represent actual trading. Also, since the trades have not actually been executed, the results may have under- or overcompensated of the impact, if any, of certain market factors, such as lack of liquidity. Simulated trading programs in general are also subject to the fact that they are designed with the benefit of hindsight. No presentation is being made that any account will or is likely to achieve profits or losses similar to those predicted or shown. <br> Have you ever thought about investing in the rapidly growing forex industry? Interested in managed funds or accounts? What about starting a broker or forex specific hedgefund? Or maybe you're a registered CTA or professional trader? This is the group for you led by industry experts who have been on the inside and know how it works. Come check it out!</p>",
+			"lon": -73.9800033569336,
+			"group_photo": {
+				"highres_link": "https://secure.meetupstatic.com/photos/event/4/f/0/2/highres_22340226.jpeg",
+				"photo_id": 22340226,
+				"base_url": "https://secure.meetupstatic.com",
+				"type": "event",
+				"photo_link": "https://secure.meetupstatic.com/photos/event/4/f/0/2/600_22340226.jpeg",
+				"thumb_link": "https://secure.meetupstatic.com/photos/event/4/f/0/2/thumb_22340226.jpeg"
+			},
+			"join_mode": "open",
+			"organizer": {
+				"member_id": 12863109,
+				"name": "Saul Shaoul",
+				"photo": {
+					"highres_link": "https://secure.meetupstatic.com/photos/member/1/9/b/c/highres_10686588.jpeg",
+					"photo_id": 10686588,
+					"base_url": "https://secure.meetupstatic.com",
+					"type": "member",
+					"photo_link": "https://secure.meetupstatic.com/photos/member/1/9/b/c/member_10686588.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/member/1/9/b/c/thumb_10686588.jpeg"
+				}
+			},
+			"members": 666,
+			"name": "The New York Online Bitcoin Trading Education Network",
+			"id": 1806459,
+			"state": "NY",
+			"urlname": "The-New-York-Online-Trading-Education-Network",
+			"category": {
+				"name": "career/business",
+				"id": 2,
+				"shortname": "career-business"
+			},
+			"lat": 40.75,
+			"who": "Traders"
+		},
+		{
+			"utc_offset": -28800000,
+			"country": "US",
+			"visibility": "public",
+			"city": "Sunnyvale",
+			"timezone": "US/Pacific",
+			"created": 1303017988000,
+			"topics": [
+				{
+					"urlkey": "opensource",
+					"name": "Open Source",
+					"id": 563
+				},
+				{
+					"urlkey": "investing",
+					"name": "Investing",
+					"id": 1307
+				},
+				{
+					"urlkey": "end-the-fed",
+					"name": "End The Fed",
+					"id": 15013
+				},
+				{
+					"urlkey": "money",
+					"name": "Money",
+					"id": 15580
+				},
+				{
+					"urlkey": "currency-trading",
+					"name": "Currency Trading",
+					"id": 16269
+				},
+				{
+					"urlkey": "entrepreneurship",
+					"name": "Entrepreneurship",
+					"id": 19882
+				},
+				{
+					"urlkey": "startup-businesses",
+					"name": "Startup Businesses",
+					"id": 21681
+				},
+				{
+					"urlkey": "gold-silver-and-currencies",
+					"name": "Gold Silver and Currencies",
+					"id": 22510
+				},
+				{
+					"urlkey": "virtual-currency",
+					"name": "Virtual Currency",
+					"id": 70315
+				},
+				{
+					"urlkey": "bitcoin",
+					"name": "Bitcoin",
+					"id": 139517
+				},
+				{
+					"urlkey": "digital-currency",
+					"name": "Digital Currency",
+					"id": 143713
+				},
+				{
+					"urlkey": "cryptocurrency",
+					"name": "Cryptocurrency",
+					"id": 191791
+				}
+			],
+			"link": "https://www.meetup.com/Silicon-Valley-Bitcoin-Users/",
+			"rating": 4.6,
+			"description": "<p>Meeting since May 2011, the Silicon Valley Bitcoin Meetup group aims to deliver the most current trends, thought leaders and innovators helping to take Bitcoin mainstream.</p>\n<p>Come network with developers, entrepreneurs and more while hearing from speakers representing every part of the Bitcoin ecosystem.</p>\n<p>The number of Bitcoin users around the world is growing at a lightning pace. This Meetup Group is designed for Bitcoin users, merchants, monetary exchange dealers, developers, and consumers -- anyone who's interested in the success of the new totally anonymous digital currency called Bitcoin. Additionally, it acts as a mutual aid society, and a business networking group.</p>\n<p>If you are interested in speaking, please fill out <strong><a href=\"https://docs.google.com/forms/d/1msoGRqwUG5ADNlCAQR5DEjM3nCKl6lyT8gQ_951bzE0/viewform?c=0&amp;w=1&amp;usp=mail_form_link\">this form</a></strong>!</p>\n<p>To learn more, visit&nbsp;<a href=\"https://bitcoin.com\"><b>Bitcoin.com</b></a></p>",
+			"lon": -122.0199966430664,
+			"group_photo": {
+				"highres_link": "https://secure.meetupstatic.com/photos/event/4/5/9/8/highres_453617816.jpeg",
+				"photo_id": 453617816,
+				"base_url": "https://secure.meetupstatic.com",
+				"type": "event",
+				"photo_link": "https://secure.meetupstatic.com/photos/event/4/5/9/8/600_453617816.jpeg",
+				"thumb_link": "https://secure.meetupstatic.com/photos/event/4/5/9/8/thumb_453617816.jpeg"
+			},
+			"join_mode": "open",
+			"organizer": {
+				"member_id": 14622937,
+				"name": "Roger Ver",
+				"photo": {
+					"highres_link": "https://secure.meetupstatic.com/photos/member/b/9/9/4/highres_12707508.jpeg",
+					"photo_id": 12707508,
+					"base_url": "https://secure.meetupstatic.com",
+					"type": "member",
+					"photo_link": "https://secure.meetupstatic.com/photos/member/b/9/9/4/member_12707508.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/member/b/9/9/4/thumb_12707508.jpeg"
+				}
+			},
+			"members": 3991,
+			"name": "Silicon Valley Bitcoin",
+			"id": 1816372,
+			"state": "CA",
+			"urlname": "Silicon-Valley-Bitcoin-Users",
+			"category": {
+				"name": "tech",
+				"id": 34,
+				"shortname": "tech"
+			},
+			"lat": 37.380001068115234,
+			"who": "Members"
+		},
+		{
+			"utc_offset": -18000000,
+			"country": "CA",
+			"visibility": "public",
+			"city": "Burlington",
+			"timezone": "Canada/Eastern",
+			"created": 1306719047000,
+			"topics": [
+				{
+					"urlkey": "investing",
+					"name": "Investing",
+					"id": 1307
+				},
+				{
+					"urlkey": "ibd",
+					"name": "Investor's Business Daily",
+					"id": 2545
+				},
+				{
+					"urlkey": "self-improvement",
+					"name": "Self-Improvement",
+					"id": 3336
+				},
+				{
+					"urlkey": "forextrading",
+					"name": "Forex Trading",
+					"id": 8431
+				},
+				{
+					"urlkey": "professional-networking",
+					"name": "Professional Networking",
+					"id": 15720
+				},
+				{
+					"urlkey": "futures-trading",
+					"name": "Futures Trading",
+					"id": 16268
+				},
+				{
+					"urlkey": "currency-trading",
+					"name": "Currency Trading",
+					"id": 16269
+				},
+				{
+					"urlkey": "financial-freedom",
+					"name": "Financial Freedom",
+					"id": 16899
+				},
+				{
+					"urlkey": "technical-analysis",
+					"name": "Technical Analysis",
+					"id": 17232
+				},
+				{
+					"urlkey": "careers-in-forex-trading",
+					"name": "Careers in Forex Trading",
+					"id": 19381
+				},
+				{
+					"urlkey": "entrepreneurship",
+					"name": "Entrepreneurship",
+					"id": 19882
+				},
+				{
+					"urlkey": "fx-trading",
+					"name": "FX Trading",
+					"id": 95411
+				},
+				{
+					"urlkey": "bitcoin",
+					"name": "Bitcoin",
+					"id": 139517
+				},
+				{
+					"urlkey": "cryptocurrency",
+					"name": "Cryptocurrency",
+					"id": 191791
+				},
+				{
+					"urlkey": "ethereum",
+					"name": "Ethereum",
+					"id": 1471992
+				}
+			],
+			"link": "https://www.meetup.com/active-traders-and-investors/",
+			"rating": 3,
+			"description": "<p>Meet with other local floor and online traders&nbsp;(face to face or online to your PC through our state of the art webinar&nbsp;tools)&nbsp;who engage in futures, bitcoin, crypto currency, index's, stocks, commodities and forex trading.</p>\n<p>The goals is to create a supportive environment where all group members can share their ideas, learn something new, and ultimately achieve success in&nbsp;their trading plan.</p>\n<p>Our group includes experienced local floor and online traders and newbie’s looking to start out on the right trading foot.</p>\n<p>We will meet up with trading experts who will give educational presentations.</p>\n<p>We also like to meet up and go out for a meal, some drinks and share stories - both good and bad.</p>\n<p>Important Disclaimer:&nbsp; <br>Upon viewing, reading, utilizing, downloading, participation, attending, registration and/or purchase/attendance in/of any of the Online Traders Network, FBN, Floor Traders Club, Educational Products, Channels, Chat Rooms, Webinars, Videos, Newsletters or Services including put not limited to This Educational Only Channel, I hereby waive all claims against Online Traders Network, FBN, Floor Traders Club, spokespersons, linda lesniak, Saul Shaoul, sponsors, organizers, benefactors including the Financial Broadcasting Network or anyone else associated in any way with any of Online Traders Network, FBN, Floor traders Club Seminars, Educational Products, Workshops, Newsletters, Webinars, Events, Chat Rooms, Channels, DVDs or Trade-Along Online or other for any loss in trading or personal expense I incur related to but not limited to these materials/webinars/chat rooms/channels/seminars/newsletters and events.&nbsp; <br>I am aware and agree that these materials/webinars/chat rooms/channels/seminars/newsletters and events are provided/conducted for educational purposes only and Nothing provided is to be taken as trading advice.</p>\n<p>IMPORTANT:&nbsp; <br>The risk of loss in online trading futures, options, cash currencies and other leveraged transaction products can be substantial. Therefore only “risk capital” should be used. Futures, options, cash currencies and other leveraged transaction products are not suitable investments for everyone. The valuation of futures, options, cash currencies and other leveraged transaction products may fluctuate and as a result clients may lose more than the amount originally invested and may also have to pay more later. Consider your financial condition before deciding to invest or online trade.</p>\n<p>CFTC RULE 4.41&nbsp; <br>Hypothetical or simulated performance results have certain inherent limitations unlike actual performance record: simulated results do not represent actual trading. Also, since the trades have not actually been executed, the results may have under- or overcompensated of the impact, if any, of certain market factors, such as lack of liquidity. Simulated trading programs in general are also subject to the fact that they are designed with the benefit of hindsight. No presentation is being made that any account will or is likely to achieve profits or losses similar to those predicted or shown.</p>\n<br>\n<p><strong> <br> </strong></p>",
+			"lon": -79.79000091552734,
+			"group_photo": {
+				"highres_link": "https://secure.meetupstatic.com/photos/event/a/a/2/a/highres_103723562.jpeg",
+				"photo_id": 103723562,
+				"base_url": "https://secure.meetupstatic.com",
+				"type": "event",
+				"photo_link": "https://secure.meetupstatic.com/photos/event/a/a/2/a/600_103723562.jpeg",
+				"thumb_link": "https://secure.meetupstatic.com/photos/event/a/a/2/a/thumb_103723562.jpeg"
+			},
+			"join_mode": "open",
+			"organizer": {
+				"member_id": 178266532,
+				"name": "Saul Shaoul",
+				"photo": {
+					"highres_link": "https://secure.meetupstatic.com/photos/member/5/f/8/e/highres_235344462.jpeg",
+					"photo_id": 235344462,
+					"base_url": "https://secure.meetupstatic.com",
+					"type": "member",
+					"photo_link": "https://secure.meetupstatic.com/photos/member/5/f/8/e/member_235344462.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/member/5/f/8/e/thumb_235344462.jpeg"
+				}
+			},
+			"members": 226,
+			"name": "Active Bitcoin Traders & Investors",
+			"id": 1937101,
+			"state": "ON",
+			"urlname": "active-traders-and-investors",
+			"category": {
+				"name": "career/business",
+				"id": 2,
+				"shortname": "career-business"
+			},
+			"lat": 43.36000061035156,
+			"who": "Traders"
+		},
+		{
+			"utc_offset": -21600000,
+			"country": "US",
+			"visibility": "public",
+			"city": "Chicago",
+			"timezone": "US/Central",
+			"created": 1307026631000,
+			"topics": [
+				{
+					"urlkey": "commodities",
+					"name": "Commodities Trade",
+					"id": 4455
+				},
+				{
+					"urlkey": "forextrading",
+					"name": "Forex Trading",
+					"id": 8431
+				},
+				{
+					"urlkey": "financialeng",
+					"name": "Financial Engineering",
+					"id": 10357
+				},
+				{
+					"urlkey": "futures-trading",
+					"name": "Futures Trading",
+					"id": 16268
+				},
+				{
+					"urlkey": "currency-trading",
+					"name": "Currency Trading",
+					"id": 16269
+				},
+				{
+					"urlkey": "technical-analysis",
+					"name": "Technical Analysis",
+					"id": 17232
+				},
+				{
+					"urlkey": "stock-trading",
+					"name": "Stock Trading",
+					"id": 17234
+				},
+				{
+					"urlkey": "financial-education",
+					"name": "Financial Education",
+					"id": 18341
+				},
+				{
+					"urlkey": "trading",
+					"name": "Trading",
+					"id": 26906
+				},
+				{
+					"urlkey": "swing-traders",
+					"name": "Swing Traders",
+					"id": 28249
+				},
+				{
+					"urlkey": "quantitative-analysis",
+					"name": "Quantitative Analysis",
+					"id": 54631
+				},
+				{
+					"urlkey": "bitcoin",
+					"name": "Bitcoin",
+					"id": 139517
+				},
+				{
+					"urlkey": "daytrading",
+					"name": "Daytrading",
+					"id": 146039
+				},
+				{
+					"urlkey": "cryptocurrency",
+					"name": "Cryptocurrency",
+					"id": 191791
+				},
+				{
+					"urlkey": "crypto-tokens-ethereum",
+					"name": "Crypto - Tokens (Ethereum )",
+					"id": 1509011
+				}
+			],
+			"link": "https://www.meetup.com/CME-Pit-IQ-Chicago-Algo-Quant-Bitcoin-Traders/",
+			"rating": 5,
+			"description": "<p>Hi Meetup Group Members,</p>\n<p>Tune in your PC or Portable device into My CME Group Trading Booth Daily (starting at 8AM Central Time) overlooking the Emini and Financial Pits on the CME Trading Floor in Chicago via Go-To-Webinar complete with Live Voice, Charts and Chat Text. <br> <br> Login via Go-to-Webinar here:&nbsp;<a href=\"http://PitIQ.TV/1yiyP7N\" class=\"linkified\">http://PitIQ.TV</a>&nbsp;<br>&nbsp; <br> all the best <br> <br> Saul <br> <br> Saul Shaoul <br> CME Group Member <br> Floor Traders Club (Chicago) <br> 141 W Jackson Suite #1404 <br> Chicago IL 60604 <br> Tel: (312) 685 2582 <br> Skype: marketvu <br> Email: services@floortradersclub.com</p>",
+			"lon": -87.62999725341797,
+			"group_photo": {
+				"highres_link": "https://secure.meetupstatic.com/photos/event/b/3/c/f/highres_30226031.jpeg",
+				"photo_id": 30226031,
+				"base_url": "https://secure.meetupstatic.com",
+				"type": "event",
+				"photo_link": "https://secure.meetupstatic.com/photos/event/b/3/c/f/600_30226031.jpeg",
+				"thumb_link": "https://secure.meetupstatic.com/photos/event/b/3/c/f/thumb_30226031.jpeg"
+			},
+			"join_mode": "open",
+			"organizer": {
+				"member_id": 116595272,
+				"name": "Saul Shaoul",
+				"photo": {
+					"highres_link": "https://secure.meetupstatic.com/photos/member/1/5/f/6/highres_154025622.jpeg",
+					"photo_id": 154025622,
+					"base_url": "https://secure.meetupstatic.com",
+					"type": "member",
+					"photo_link": "https://secure.meetupstatic.com/photos/member/1/5/f/6/member_154025622.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/member/1/5/f/6/thumb_154025622.jpeg"
+				}
+			},
+			"members": 209,
+			"name": "Chicago Algo, Quant, Bitcoin and Crypto-Currency Traders",
+			"id": 1956901,
+			"state": "IL",
+			"urlname": "CME-Pit-IQ-Chicago-Algo-Quant-Bitcoin-Traders",
+			"category": {
+				"name": "career/business",
+				"id": 2,
+				"shortname": "career-business"
+			},
+			"lat": 41.880001068115234,
+			"who": "Traders"
+		},
+		{
+			"utc_offset": -18000000,
+			"country": "US",
+			"visibility": "public_limited",
+			"city": "Miami",
+			"timezone": "US/Eastern",
+			"created": 1307476455000,
+			"topics": [
+				{
+					"urlkey": "currency-trading",
+					"name": "Currency Trading",
+					"id": 16269
+				},
+				{
+					"urlkey": "financial-freedom",
+					"name": "Financial Freedom",
+					"id": 16899
+				},
+				{
+					"urlkey": "stock-trading",
+					"name": "Stock Trading",
+					"id": 17234
+				},
+				{
+					"urlkey": "financial-education",
+					"name": "Financial Education",
+					"id": 18341
+				},
+				{
+					"urlkey": "stock-market",
+					"name": "Stock Market",
+					"id": 19267
+				},
+				{
+					"urlkey": "stocks-and-options",
+					"name": "Stocks and Options",
+					"id": 19809
+				},
+				{
+					"urlkey": "stock-investing",
+					"name": "Stock Investing",
+					"id": 22016
+				},
+				{
+					"urlkey": "trading",
+					"name": "Trading",
+					"id": 26906
+				},
+				{
+					"urlkey": "swing-traders",
+					"name": "Swing Traders",
+					"id": 28249
+				},
+				{
+					"urlkey": "options-trading-and-strategies",
+					"name": "Options Trading and Strategies",
+					"id": 49869
+				},
+				{
+					"urlkey": "virtual-currency",
+					"name": "Virtual Currency",
+					"id": 70315
+				},
+				{
+					"urlkey": "bitcoin",
+					"name": "Bitcoin",
+					"id": 139517
+				},
+				{
+					"urlkey": "cryptocurrency",
+					"name": "Cryptocurrency",
+					"id": 191791
+				},
+				{
+					"urlkey": "bitcoin-miners",
+					"name": "Bitcoin Miners",
+					"id": 462662
+				}
+			],
+			"link": "https://www.meetup.com/FloridaTraders/",
+			"rating": 5,
+			"description": "<p>Free option trading updates from WhiteRockUSA.com:&nbsp;<a>https://forms.aweber.com/form/13/1422350713.htm</a></p>\n<p>Free cryptocurrency trading updates and portfolio from Crypto Alpha&nbsp;<a>www.Option80.com:</a>&nbsp;<a>http://forms.aweber.com/form/65/558119065.htm</a></p>\n<p>Hello, and welcome to the Cryptocurrency and Option Trading Group.&nbsp; We discuss Bitcoin, Altcoins, Butterflies, Condors, Ratios, Verticals, Positive Vega structures via crash protection, and more.&nbsp; Most of our discussions lean toward trend following crypto coins, and positive theta option trading.&nbsp; All experience levels are welcome.&nbsp; The goal of this meetup is for all attendees to receive insightful information.&nbsp;</p>\n<p>The organizers run the WhiteRock&nbsp;Iron Condor and Iron Butterfly Newsletter which maintains a positive vega stance for crash protection.&nbsp; WhiteRock has developed a unique way to structure 3 legged Spreads, and 5 legged Iron Condors and Butterflies, to collect premium, yet remain positive vega for crash protection.&nbsp; When market crashes occur, the VIX quickly rises to elevated levels, and negative vega trade structures are adversely affected.&nbsp; WhiteRock's trade structures have the potential to perform well in a market crash.</p>\n<p>WhiteRock offers a complimentary newsletter with spread and performance updates:&nbsp;<a>www.WhiteRockUSA.com</a></p>\n<p>This meetup discusses, and discloses, these positive vega trade structures so attendees can implement them on their own.&nbsp; Others may want to subscribe to our newsletter to follow along, or have a Registered Adviser implement the newsletter on their behalf.&nbsp;</p>\n<p>RISK STATEMENT: The trading of options, stocks, futures, commodities, index futures or any other securities has potential rewards, and it also has potential risks involved. Trading may not be suitable for all individuals. Anyone wishing to invest should seek his or her own independent financial or professional advice. Past performance is not necessarily indicative of future results. There are risks associated with all investments including trading stocks and options. No trading recommendations are being offered.&nbsp; This information is for educational purposes only.&nbsp; We, and any affiliates, are not offering financial advice, and by attending this event, or utilizing this information, you agree to our terms of use and service, and understand all risk is taken at your own discretion.&nbsp;</p>\n<br>",
+			"lon": -80.23999786376953,
+			"group_photo": {
+				"highres_link": "https://secure.meetupstatic.com/photos/event/1/c/6/7/highres_30427271.jpeg",
+				"photo_id": 30427271,
+				"base_url": "https://secure.meetupstatic.com",
+				"type": "event",
+				"photo_link": "https://secure.meetupstatic.com/photos/event/1/c/6/7/600_30427271.jpeg",
+				"thumb_link": "https://secure.meetupstatic.com/photos/event/1/c/6/7/thumb_30427271.jpeg"
+			},
+			"join_mode": "open",
+			"organizer": {
+				"member_id": 198584082,
+				"name": "JM",
+				"photo": {
+					"highres_link": "https://secure.meetupstatic.com/photos/member/3/6/5/8/highres_253933912.jpeg",
+					"photo_id": 253933912,
+					"base_url": "https://secure.meetupstatic.com",
+					"type": "member",
+					"photo_link": "https://secure.meetupstatic.com/photos/member/3/6/5/8/member_253933912.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/member/3/6/5/8/thumb_253933912.jpeg"
+				}
+			},
+			"members": 375,
+			"name": "Florida Cryptocurrency and Option Traders",
+			"id": 1985031,
+			"state": "FL",
+			"urlname": "FloridaTraders",
+			"category": {
+				"name": "career/business",
+				"id": 2,
+				"shortname": "career-business"
+			},
+			"lat": 25.780000686645508,
+			"who": "Florida Traders"
+		},
+		{
+			"utc_offset": 3600000,
+			"country": "NL",
+			"visibility": "public",
+			"city": "Groningen",
+			"timezone": "Europe/Amsterdam",
+			"created": 1322467467000,
+			"topics": [
+				{
+					"urlkey": "ai",
+					"name": "Artificial Intelligence",
+					"id": 456
+				},
+				{
+					"urlkey": "robotics",
+					"name": "Robotics",
+					"id": 682
+				},
+				{
+					"urlkey": "newtech",
+					"name": "New Technology",
+					"id": 9696
+				},
+				{
+					"urlkey": "technology",
+					"name": "Technology",
+					"id": 10579
+				},
+				{
+					"urlkey": "digital-media",
+					"name": "Digital Media",
+					"id": 17188
+				},
+				{
+					"urlkey": "content-marketing",
+					"name": "Content Marketing",
+					"id": 64890
+				},
+				{
+					"urlkey": "internet-of-things",
+					"name": "Internet of Things",
+					"id": 79740
+				},
+				{
+					"urlkey": "technology-startups",
+					"name": "Technology Startups",
+					"id": 108403
+				},
+				{
+					"urlkey": "bitcoin",
+					"name": "Bitcoin",
+					"id": 139517
+				},
+				{
+					"urlkey": "trendwatching",
+					"name": "Trendwatching",
+					"id": 162776
+				},
+				{
+					"urlkey": "cryptocurrency",
+					"name": "Cryptocurrency",
+					"id": 191791
+				},
+				{
+					"urlkey": "disruptive-innovation",
+					"name": "Disruptive innovation",
+					"id": 500312
+				},
+				{
+					"urlkey": "blockchain",
+					"name": "Blockchain",
+					"id": 1493232
+				}
+			],
+			"link": "https://www.meetup.com/SMC050/",
+			"rating": 4.22,
+			"description": "<p><br></p>\n<p>SMC050 is een initiatief om professionals, bedrijven en experts op het gebied van technologische trends en digitale innovatie in de regio bij elkaar te brengen. 1x in de 6 weken een avond met twee lezingen @Martiniplaza.</p>\n<p>Met onderwerpen als&nbsp;Augmented Reality, Chatbots, Blockchain, Internet Of Everything, Virtual Reality, Singularity, Exponential technologies, Drones, Virtual Assistants, Bitcoins, Privacy, Deep Learning, Artificial Intelligence, Cryptocurrencies,&nbsp;<span>Conversational interfaces, Smart Cities, Smart farming, Startups,&nbsp;</span><span>Wearables, Robotica en andere technologische trends.</span></p>\n<p><span><b>=Tomorrow's Trends Today=</b></span></p>\n<p><span>SMC050 is tevens een netwerk voor bedrijven, ondernemers en ondernemende mensen in de regio Groningen. Wij zijn echter geen business-netwerkborrel club.</span><br></p>\n<p>Middels deze pagina meld je je aan voor de COMMUNITY van de SMC050. Je moet je dan zelf nog aanmelden voor het aankomende EVENEMENT van de SMC050 avond. Dat kan via de RSVP knop bij het evenement.</p>\n<p>(NB: Mensen die zich wel aanmelden en zonder afmelding wegblijven zijn de volgende editie niet welkom, helaas.)</p>\n<p>Heb je belangstelling voor bovengenoemde onderwerpen en is voor jou Groningen niet het einde van de wereld? Dan is een inschrijving voor deze groep zeker de moeite waard. Vragen? info@jarnoduursma.nl&nbsp;&nbsp;</p>",
+			"lon": 6.570000171661377,
+			"join_mode": "open",
+			"organizer": {
+				"member_id": 12591816,
+				"name": "Jarno Duursma",
+				"photo": {
+					"highres_link": "https://secure.meetupstatic.com/photos/member/7/6/d/3/highres_267570419.jpeg",
+					"photo_id": 267570419,
+					"base_url": "https://secure.meetupstatic.com",
+					"type": "member",
+					"photo_link": "https://secure.meetupstatic.com/photos/member/7/6/d/3/member_267570419.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/member/7/6/d/3/thumb_267570419.jpeg"
+				}
+			},
+			"members": 3434,
+			"name": "SMC050",
+			"id": 2873362,
+			"urlname": "SMC050",
+			"category": {
+				"name": "tech",
+				"id": 34,
+				"shortname": "tech"
+			},
+			"lat": 53.22999954223633,
+			"who": "Members"
+		}
+	],
+	"meta": {
+		"next": "https://api.meetup.com/2/groups?offset=1&sign=True&format=json&topic=cryptocurrency&photo-host=public&page=20&radius=25.0&fields=&key=2317179606b581356403e49598658&order=id&desc=false",
+		"method": "Groups",
+		"total_count": 4341,
+		"link": "https://api.meetup.com/2/groups",
+		"count": 20,
+		"description": "None",
+		"lon": "None",
+		"title": "Meetup Groups v2",
+		"url": "https://api.meetup.com/2/groups?offset=0&sign=True&format=json&topic=cryptocurrency&photo-host=public&page=20&radius=25.0&fields=&key=2317179606b581356403e49598658&order=id&desc=false",
+		"signed_url": "https://api.meetup.com/2/groups?offset=0&format=json&topic=cryptocurrency&photo-host=public&page=20&radius=25.0&fields=&order=id&desc=false&sig_id=198387437&sig=b3377bf3ab0d602830e98800d3808d993b6430bc",
+		"id": "",
+		"updated": 1517156439000,
+		"lat": "None"
+	}
+}
