@@ -26,9 +26,9 @@ reference = ''
 
 count = 1
 
-while count < 191:
+while count < 14:
 
-    print (count)
+    print(count)
 
     try:
 
@@ -48,7 +48,7 @@ while count < 191:
         type.click()
         time.sleep(3)
 
-        country = browser.find_element_by_xpath('//*[@id="Country"]/option[20]')
+        country = browser.find_element_by_xpath('//*[@id="Country"]/option[93]')
         country_name = country.text
         country.click()
         time.sleep(3)

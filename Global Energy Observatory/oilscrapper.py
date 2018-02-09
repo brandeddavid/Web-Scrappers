@@ -26,14 +26,14 @@ reference = ''
 
 count = 1
 
-while count < 2:
+while count < 743:
 
     print (count)
 
     try:
 
 
-        browser = webdriver.Firefox(executable_path=r'C:\Users\ict\Documents\My Docs\GIT Projects\Web-Scrappers\Global Energy Observatory\geckodriver.exe')
+        browser = webdriver.Firefox()
 
         url = 'http://globalenergyobservatory.org/select.php?tgl=Edit'
 
@@ -48,7 +48,7 @@ while count < 2:
         type.click()
         time.sleep(3)
 
-        country = browser.find_element_by_xpath('//*[@id="Country"]/option[77]')
+        country = browser.find_element_by_xpath('//*[@id="Country"]/option[78]')
         country_name = country.text
         country.click()
         time.sleep(3)
