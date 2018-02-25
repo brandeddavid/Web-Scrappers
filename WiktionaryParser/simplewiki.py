@@ -1,9 +1,10 @@
 from simplewiktionary import SimpleWiktionary
-import csv
+import csv, inflect
 
 parser = SimpleWiktionary()
+inflect = inflect.engine()
 
-with open('definition.csv', 'a') as outfile:
+with open('definition.csv', 'a', newline='') as outfile:
 
     headers = ['Word', 'Definition']
     writer = csv.DictWriter(outfile, fieldnames=headers)
@@ -24,6 +25,8 @@ with open('definition.csv', 'a') as outfile:
 
                     definition = ''
 
+
+
                 else:
 
                     definition = parser.define(row[0])[0]
@@ -36,4 +39,3 @@ with open('definition.csv', 'a') as outfile:
 
                 writer.writerow({'Word': row[0], 'Definition': definition.strip()})
                 definition = ''
-
