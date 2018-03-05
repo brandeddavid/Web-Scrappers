@@ -1,22 +1,36 @@
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 
-url = 'http://www.enchantedlearning.com/wordlist/animal.shtml'
 
-url_html = urlopen(url).read()
+def scrapper(url):
+    """
 
-soup = BeautifulSoup(url_html, 'html.parser')
+    :param url with a list of English words/ data in its tds:
+    :return: A word.txt document of words scrapped from the url tables
 
-trs = soup.find_all('tr')
+    """
 
-wordList = []
+    url_html = urlopen(url).read()
 
-with open('words.txt', 'a') as file:
+    soup = BeautifulSoup(url_html, 'html.parser')
 
-    for tr in trs:
+    trs = soup.find_all('tr')
 
-        tds = tr.find_all('td')
+    with open('words.txt', 'a') as file:
 
-        for td in tds:
+        for tr in trs:
 
-            file.writelines(td.text.strip() + '\n')
+            # file.writelines(tr.text.strip('\n') + '\n')
+
+            tds = tr.find_all('td')
+
+            for td in tds:
+
+                file.writelines(td.text.strip() + '\n')
+
+
+if __name__ == '__main__':
+
+    url = str(input('> '))
+
+    scrapper(url)
