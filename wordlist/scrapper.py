@@ -16,10 +16,8 @@ wordList = []
 
 pattern = "[\-\:]"
 
-for word in words:
+with open('words.txt', 'a') as file:
 
-    #wordList.append(word.text.strip())
+    for word in words:
 
-    wordList.append(re.split(pattern, word.text)[0].strip())
-
-print(wordList)
+        file.writelines(str(word.text.strip().encode('ascii', 'ignore').decode()) + '\n')

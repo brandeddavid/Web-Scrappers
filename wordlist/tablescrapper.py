@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 
-url = 'http://grammar.yourdictionary.com/parts-of-speech/adjectives/List-of-Descriptive-Adjectives.html'
+url = 'http://www.enchantedlearning.com/wordlist/animal.shtml'
 
 url_html = urlopen(url).read()
 
@@ -11,12 +11,12 @@ trs = soup.find_all('tr')
 
 wordList = []
 
-for tr in trs:
+with open('words.txt', 'a') as file:
 
-    tds = tr.find_all('td')
+    for tr in trs:
 
-    for td in tds:
+        tds = tr.find_all('td')
 
-        wordList.append(td.text.strip())
+        for td in tds:
 
-print(wordList)
+            file.writelines(td.text.strip() + '\n')
