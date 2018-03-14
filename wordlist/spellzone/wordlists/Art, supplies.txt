@@ -1,0 +1,15 @@
+dye 
+cloth 
+crayon 
+oil 
+colors  
+pastel 
+paint 
+pastel 
+tempera 
+water 
+acrylic 
+pencil 
+brush 
+pen 
+ink 

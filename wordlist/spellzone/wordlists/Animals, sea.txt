@@ -1,0 +1,10 @@
+cuttlefish 
+mollusk 
+mussel 
+oyster 
+pearl 
+otter 
+urchin 
+snail 
+starfish 
+walrus 

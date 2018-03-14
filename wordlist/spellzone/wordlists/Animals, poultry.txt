@@ -1,0 +1,13 @@
+beak 
+bird 
+cage 
+nest 
+chicken 
+duck 
+goose 
+hen 
+nest 
+rooster 
+swan 
+turkey 
+wing 

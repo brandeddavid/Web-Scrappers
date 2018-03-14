@@ -1,0 +1,10 @@
+python 
+cobra 
+poison 
+poisonous 
+python 
+rattlesnake 
+snake 
+venom 
+spitting 
+hiss 

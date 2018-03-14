@@ -1,0 +1,14 @@
+art 
+drawing 
+film 
+medium 
+motion 
+movie 
+painting 
+photograph 
+picture 
+sculpture 
+carve 
+formal 
+mold  
+stage 

@@ -1,0 +1,15 @@
+antelope 
+bison 
+bull 
+cattle 
+chamois 
+cow 
+deer 
+giraffe 
+ibex 
+manure 
+moose 
+musk 
+ox 
+ruminant 
+buffalo 

@@ -1,0 +1,14 @@
+actor 
+actress 
+artist 
+director 
+guitarist 
+magician 
+musician 
+painter 
+photographer 
+pianist 
+producer 
+sculptor 
+singer 
+designer 

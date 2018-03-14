@@ -1,0 +1,8 @@
+calf 
+cat 
+kid 
+kitten 
+lamb 
+puppy 
+rabbit 
+turtle 

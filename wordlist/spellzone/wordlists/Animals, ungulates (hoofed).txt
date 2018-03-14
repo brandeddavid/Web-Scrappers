@@ -1,0 +1,15 @@
+donkey 
+dugong 
+gaur 
+goat 
+horse 
+manatee 
+mule 
+ungulate 
+pig 
+rhino 
+sheep 
+tapir 
+elephant 
+trunk 
+tusk 

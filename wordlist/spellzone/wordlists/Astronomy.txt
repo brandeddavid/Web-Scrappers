@@ -1,0 +1,15 @@
+asteroid 
+planet 
+system 
+star 
+comet 
+Mars 
+Earth 
+Moon 
+Mars 
+Venus 
+Neptune 
+Uranus 
+Saturn 
+Pluto 
+Jupiter 
