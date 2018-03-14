@@ -20,12 +20,12 @@ with open('ourwords.csv', 'r') as ourfile:
 
 print(len(ourWords))
 
-with open('wordlistout.csv', 'a', newline='') as outfile:
+with open('spellzoneout.csv', 'a', newline='') as outfile:
 
-    writer = csv.DictWriter(outfile, fieldnames=['wordlist', 'list', 'our words', 'missing words'])
+    writer = csv.DictWriter(outfile, fieldnames=['our words', 'missing words'])
     writer.writeheader()
 
-    with open('wordlist.csv', 'r') as infile:
+    with open('spellzone.csv', 'r') as infile:
 
         reader = csv.reader(infile, delimiter=',')
 
@@ -33,13 +33,13 @@ with open('wordlistout.csv', 'a', newline='') as outfile:
 
             try:
 
-                print(row[1].split('\n'))
+                #print(row[2].split('\n'))
 
-                for word in row[1].split('\n'):
+                for word in row[2].split('\n'):
 
-                    if word.lower() in ourWords:
+                    if word.split()[0].lower() in ourWords:
 
-                        presentWords.append(word)
+                        presentWords.append(word.split()[0])
 
                     else:
 
@@ -51,6 +51,6 @@ with open('wordlistout.csv', 'a', newline='') as outfile:
 
             finally:
 
-                writer.writerow({'wordlist': row[0], 'list': row[1], 'our words': [word for word in presentWords], 'missing words': missingWords})
+                writer.writerow({'our words': str(presentWords).replace('[', '').replace(']', ''), 'missing words': str(missingWords).replace('[', '').replace(']', '')})
                 presentWords = []
                 missingWords = []
