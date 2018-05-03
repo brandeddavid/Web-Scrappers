@@ -2,30 +2,63 @@ from urllib.request import urlopen
 import csv, json, math
 import time
 
-def memberInfo(ids, key):
+def profIds(file):
+    idList = []
+    with open (file, 'r') as infile:
+        reader = csv.reader(infile, delimiter=',')
+        for row in reader:
+            id = row[3].split('/')[-1]
+            idList.append(id)
+    return idList
+
+def bio(id, key):
+    try:
+        url = 'https://api.meetup.com/2/member/'+id+'?&sign=true&photo-host=public&page=20&key='+key
+        with urlopen(url) as url:
+            data = json.loads(url.read().decode())
+            biography = data['bio'].strip()
+    except:
+        biography = ''
+        pass
+    finally:
+        return biography
+
+def twitter(id, key):
+    try:
+        url = 'https://api.meetup.com/2/member/'+id+'?&sign=true&photo-host=public&page=20&key='+key
+        with urlopen(url) as url:
+            data = json.loads(url.read().decode())
+            twitterLink = data['other_services']['twitter']['identifier'].strip()
+    except:
+        twitterLink = ''
+        pass 
+    finally:
+        return twitterLink
+
+def facebook(id, key):
+    try:
+        url = 'https://api.meetup.com/2/member/'+id+'?&sign=true&photo-host=public&page=20&key='+key
+        with urlopen(url) as url:
+            data = json.loads(url.read().decode())
+            facebookLink = data['other_services']['facebook']['identifier'].strip()
+    except:
+        facebookLink = ''
+        pass
+    finally:
+        return facebookLink
+
+if __name__ == '__main__':
+    membersFile = input('Please enter the file name\n>')
+    ids = profIds(membersFile)
+    key = '2317179606b581356403e49598658'
     with open('memberinfo.csv', 'a', newline='') as outfile:
         writer = csv.DictWriter(outfile, fieldnames=['ID', 'Bio', 'Facebook', 'Twitter'])
         for id in ids:
-            url = 'https://api.meetup.com/2/member/'+id+'?&sign=true&photo-host=public&page=20&key='+key
-            with urlopen(url) as url:
-                bio = ''
-                facebook = ''
-                twitter = ''
-                try:
-                    data = json.loads(url.read().decode())
-                    bio = data['bio'].strip()
-                    twitter = data['other_services']['twitter']['identifier'].strip()
-                    facebook = data['other_services']['facebook']['identifier'].strip()
-                except:
-                    pass
-                finally:
-                    writer.writerow({'ID':id, 'Bio':bio, 'Facebook':facebook, 'Twitter': twitter})
-                    bio = ''
-                    facebook = ''
-                    twitter = ''
-
-
-if __name__ == '__main__':
-    profId = ['38661082', '183557497', '13501498']
-    key = '2317179606b581356403e49598658'
-    print(memberInfo(profId, key))
+            try:
+                biog = bio(id, key)
+                facebookL = facebook(id, key)
+                twitterL = twitter(id, key)
+            except:
+                pass
+            finally:
+                writer.writerow({'ID':id, 'Bio':biog, 'Facebook':facebookL, 'Twitter': twitterL})
