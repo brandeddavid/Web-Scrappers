@@ -2,8 +2,9 @@ from urllib.request import urlopen
 import csv, json, math
 import time
 
+idList = []
+
 def profIds(file):
-    idList = []
     with open (file, 'r') as infile:
         reader = csv.reader(infile, delimiter=',')
         for row in reader:
@@ -47,13 +48,16 @@ def facebook(id, key):
     finally:
         return facebookLink
 
+
 if __name__ == '__main__':
     membersFile = input('Please enter the file name\n>')
     ids = profIds(membersFile)
+    time.sleep(20)
     key = '2317179606b581356403e49598658'
     with open('memberinfo.csv', 'a', newline='') as outfile:
         writer = csv.DictWriter(outfile, fieldnames=['ID', 'Bio', 'Facebook', 'Twitter'])
         for id in ids:
+            print ("Searching", ids.index(id)+1, "of", len(ids))
             try:
                 biog = bio(id, key)
                 facebookL = facebook(id, key)
