@@ -1,42 +1,60 @@
-"""[summary]
+"""
+[
+    This file scrapes top 1000 GitHub profiles usernames from githubrank.com
+    Using the username, it generates a file with profile information for those
+    profile scrapped from GitHub
+]
 
 Returns:
-    [type] -- [description]
+    [file] -- [.csv file with top 1000 Chinese GitHub profiles with profile information]
 """
-
-
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 from github import Github
 import csv 
 
 def login(username, password):
-    """[summary]
-    
+    """
+    [Auth Function]
+
     Arguments:
-        username {[type]} -- [description]
-        password {[type]} -- [description]
+        username {[str]} -- [GitHub username]
+        password {[str]} -- [GitHub password]
     
     Returns:
-        [type] -- [description]
+        [object] -- [Authenticated GitHub object]
     """
 
     githubInstance = Github(username, password)
     return githubInstance
 
-def scrapper(url):
-    """[summary]
+def scrapper(url, github_username, github_password):
+    """
+    [
+        Scrapes GitHub users' profile information
+    ]
     
     Arguments:
-        url {[type]} -- [description]
+        url {[str]} -- [GitRank url]
+        github_username {[str]} -- [GitHub username]
+        github_password {[str]} -- [GitHub password]
     """
 
-    github = login('brandeddavid', 'marigi@98')
+    username = ''
+    github_name = ''
+    github_bio = ''
+    github_location = ''
+    github_email = ''
+    github_site = ''
+    github_followers =  ''
+    github_repo = ''
+    github_languages = ''
+    github_link = ''
+    github = login(github_username, github_password)
     page_html = urlopen(url).read()
     soup = BeautifulSoup(page_html, 'html.parser')
     table = soup.find_all('table')
     trs = table[0].findAll('tr')
-    print (trs[0])
     with open('ChinaTop1000.csv', 'a', newline='') as outfile:
         headers = ['Name', 'Bio', 'Location', 'Email', 'Site', 'Followers', 'Repos', 'Languages', 'Link']
         writer = csv.DictWriter(outfile, fieldnames=headers)
@@ -56,22 +74,25 @@ def scrapper(url):
                 github_repo = user.repos_url
                 github_languages = tds[5].text
                 github_link = user.html_url
-                writer.writerow({'Name': github_name, 'Bio': github_bio, 'Location':github_location, 'Email': github_email, 'Site': github_site, 'Followers': github_followers, 'Repo': github_repo, 'Languages': github_languages, 'Link': github_link})
             except:
                 pass
             finally:
-                username = None
-                github_name = None
-                github_bio = None
-                github_email = None
-                github_site = None
-                github_followers =  None
-                github_repo = None
-                github_languages = None
-                github_link = None
+                writer.writerow({'Name': github_name, 'Bio': github_bio, 'Location':github_location, 'Email': github_email, 'Site': github_site, 'Followers': github_followers, 'Repos': github_repo, 'Languages': github_languages, 'Link': github_link})
+                username = ''
+                github_name = ''
+                github_bio = ''
+                github_location = ''
+                github_email = ''
+                github_site = ''
+                github_followers =  ''
+                github_repo = ''
+                github_languages = ''
+                github_link = ''
 
 
 
 if __name__ == '__main__':
+    username = input('Enter your GitHub username: ')
+    password = input('Enter your GitHub password: ')
     link = 'http://www.githubrank.com/'
-    scrapper(link)
+    scrapper(link, username, password)
