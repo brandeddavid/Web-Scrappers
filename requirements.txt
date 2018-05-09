@@ -2,13 +2,9 @@ beautifulsoup4==4.6.0
 bs4==0.0.1
 certifi==2018.4.16
 chardet==3.0.4
-get==1.0.2
 idna==2.6
-post==1.0.1
-public==1.0.2
+pkg-resources==0.0.0
 PyGithub==1.39
 PyJWT==1.6.1
-query-string==1.0.1
-request==1.0.1
 requests==2.18.4
 urllib3==1.22
