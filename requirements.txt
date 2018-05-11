@@ -3,7 +3,6 @@ bs4==0.0.1
 certifi==2018.4.16
 chardet==3.0.4
 idna==2.6
-pkg-resources==0.0.0
 PyGithub==1.39
 PyJWT==1.6.1
 requests==2.18.4
