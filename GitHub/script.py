@@ -21,15 +21,14 @@ def login(username, password):
     githubInstance = Github(username, password)
     return githubInstance
 
-def getLanguage(repoURL):
+def getLanguage(repoURL, user):
     languages = []
-    response = requests.get(repoURL)
-    response = json.loads(response.text) 
-    for repo in response:
-        if not repo['language']:
+    repos = user.get_repos()
+    for repo in repos:
+        if not repo.language:
             pass
         else:
-            languages.append(repo['language'])
+            languages.append(repo.language)
     if len(languages) == 0:
         languages = {}
     else:
@@ -42,41 +41,49 @@ def getJSON(APIEndpoint):
     return content
 
 def scrapper(username, password):
-    url = 'https://api.github.com/search/users?q=location:china+followers:>100&type=user&page=1&per_page=100'
-    users = getJSON(url)
-    with open('ChinaTop1000.csv', 'a', newline='') as outfile:
-        headers = ['Name', 'Bio', 'Location', 'Email', 'Site', 'Followers', 'Repos', 'Languages', 'Link']
-        writer = csv.DictWriter(outfile, fieldnames=headers)
-        writer.writeheader()
-        for item in users['items']:
-            print('Scrapping Page 1 User Number', users['items'].index(item)+1, ' of', len(users['items']))
-            github_instance = login(username,password)            
-            try:
-                user = github_instance.get_user(item['login'])
-                github_name = user.name
-                github_bio = user.bio
-                github_location = user.location
-                github_email = user.email
-                github_site = user.blog
-                github_followers = user.followers
-                github_repo = item['html_url'] + '?tab=repositories'
-                github_link = item['html_url']
-                github_languages = str(getLanguage(item['repos_url'])).replace('{','').replace('}','')
-            except Exception as e:
-                print(e)
-                pass
-            finally:
-                writer.writerow({'Name': github_name, 'Bio': github_bio, 'Location':github_location, 'Email': github_email, 'Site': github_site, 'Followers': github_followers, 'Repos': github_repo, 'Languages': github_languages, 'Link': github_link})
-                username = ''
-                github_name = ''
-                github_bio = ''
-                github_location = ''
-                github_email = ''
-                github_site = ''
-                github_followers =  ''
-                github_repo = ''
-                github_languages = ''
-                github_link = ''
+    github_instance = login(username,password)
+    page = 1
+    while page < 11:
+        try:
+            url = 'https://api.github.com/search/users?q=location:china+followers:<217&type=user&page='+str(page)+'&per_page=100'
+            users = getJSON(url)
+            with open('ChinaTop1001-2000.csv', 'a', newline='') as outfile:
+                headers = ['Name', 'Bio', 'Location', 'Email', 'Site', 'Followers', 'Repos', 'Languages', 'Link']
+                writer = csv.DictWriter(outfile, fieldnames=headers)
+                # writer.writeheader()
+                for item in users['items']:
+                    print('Scrapping Page', page, 'User Number', users['items'].index(item)+1, 'of', len(users['items']))            
+                    try:
+                        user = github_instance.get_user(item['login'])
+                        github_name = user.name
+                        github_bio = user.bio
+                        github_location = user.location
+                        github_email = user.email
+                        github_site = user.blog
+                        github_followers = user.followers
+                        github_repo = item['html_url'] + '?tab=repositories'
+                        github_link = item['html_url']
+                        github_languages = str(getLanguage(item['repos_url'], user)).replace('{','').replace('}','')
+                    except Exception as e:
+                        print(e)
+                        pass
+                    finally:
+                        writer.writerow({'Name': github_name, 'Bio': github_bio, 'Location':github_location, 'Email': github_email, 'Site': github_site, 'Followers': github_followers, 'Repos': github_repo, 'Languages': github_languages, 'Link': github_link})
+                        username = ''
+                        github_name = ''
+                        github_bio = ''
+                        github_location = ''
+                        github_email = ''
+                        github_site = ''
+                        github_followers =  ''
+                        github_repo = ''
+                        github_languages = ''
+                        github_link = ''
+        except Exception as e:
+            print(e)
+            pass
+        finally:
+            page += 1
 
 
 if __name__ == '__main__':
