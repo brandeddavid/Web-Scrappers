@@ -1,31 +1,62 @@
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
-import csv, wget
+import csv, wget, time
 
-url = 'http://www.openplatform.cc/index.php/home/index/products'
-url_html = urlopen(url).read()
-soup = BeautifulSoup(url_html, 'html.parser')
+base_url = 'http://www.openplatform.cc'
+page = 1
 
 with open('products.csv', 'a', newline='') as file:
-  headers = ['Name', 'Number', 'Image']
+  headers = ['Name', 'Number', 'Image', 'Page', 'Description']
   writer = csv.DictWriter(file, fieldnames=headers)
   writer.writeheader()
-  
-  try:
-    product_div = soup.findAll('div', {'class': 'searListsub'})
 
-    for product in product_div:
+  while page < 23:
+    print('\nScraping page\n', page)
+
+    try:
+      url = 'http://www.openplatform.cc/index.php/Home/Index/products/p/' + str(page) + '.html'
+      url_html = urlopen(url).read()
+      soup = BeautifulSoup(url_html, 'html.parser')
+        
       try:
-        product_name = product.findAll('h5', {'class': 'itemTitle'})[0].a.text
-        product_no = product.findAll('div', {'class': 'c9'})[0].text
-        product_image = 'http://www.openplatform.cc' + product.findAll('img', {'class': 'img-responsive'})[0]['src']
-        wget.download(product_image, './' + product_name + '.jpg')
+        product_div = soup.findAll('div', {'class': 'searListsub'})
 
-      except Exception as e:
-        print(e)
+        for product in product_div:
+          try:
+            product_name = product.findAll('h5', {'class': 'itemTitle'})[0].a.text
+            product_no = product.findAll('div', {'class': 'c9'})[0].text
+            product_image = base_url + product.findAll('img', {'class': 'img-responsive'})[0]['src']
+            wget.download(product_image, './' + product_name + '.jpg')
+            time.sleep(15)
+            product_url = base_url + product.findAll('a', {'class': 'thumb'})[0]['href']
 
-      finally:
-        writer.writerow({'Name': product_name, 'Number': product_no, 'Image': product_image})
-  
-  except Exception as error:
-    print(error)
+            try:
+              product_page_html = urlopen(product_url).read()
+              product_page_soup = BeautifulSoup(product_page_html, 'html.parser')
+              product_description = product_page_soup.findAll('div', {'class': 'editBox'})[0].text
+            
+            except Exception as error:
+              print('Product page', error)
+              pass
+
+          except Exception as error:
+            print('Product info', error)
+            pass
+
+          finally:
+            pass
+            writer.writerow({'Name': product_name, 'Number': product_no, 'Image': product_image, 'Page': product_url, 'Description': product_description})
+      
+      except Exception as error:
+        print('Product list', error)
+        pass
+    
+    except Exception as error:
+      print('Page count', error)
+
+    finally:
+      page += 1
+      product_name = ''
+      product_no = ''
+      product_image = ''
+      product_url = ''
