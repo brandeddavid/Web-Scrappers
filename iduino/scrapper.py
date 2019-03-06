@@ -47,7 +47,7 @@ with open('iduino-board.csv', 'a', newline='') as file:
             pass
 
           finally:
-             writer.writerow({'Name': product_name, 'Number': product_no, 'Image': product_image, 'Page': product_url, 'Description': product_description})
+            writer.writerow({'Name': product_name, 'Number': product_no, 'Image': product_image, 'Page': product_url, 'Description': product_description})
             product_name = ''
             product_no = ''
             product_image = ''
